@@ -1,0 +1,13 @@
+name = "Presence Footsteps (NeoForge)"
+filename = "PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JIEwmDVI/versions/f3SxKzof/PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.jar"
+hash-format = "sha256"
+hash = "ded9ea8677f407cbf280b0ee33866ae70859a7c476ef0f60fd35a9be2ee9b91a"
+
+[update]
+[update.modrinth]
+mod-id = "JIEwmDVI"
+version = "f3SxKzof"

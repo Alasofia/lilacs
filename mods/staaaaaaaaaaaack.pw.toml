@@ -1,0 +1,13 @@
+name = "Staaaaaaaaaaaack (Stxck)"
+filename = "staaaaaaaaaaaack-neoforge-1.21.1-1.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/myL7fuqp/versions/xzztNZML/staaaaaaaaaaaack-neoforge-1.21.1-1.8.jar"
+hash-format = "sha256"
+hash = "02ff3bf8aa1bc5410e4ef1d0a114f078f96831c0fa69da35587ca4683acb1e5d"
+
+[update]
+[update.modrinth]
+mod-id = "myL7fuqp"
+version = "xzztNZML"

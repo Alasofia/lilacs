@@ -1,0 +1,13 @@
+name = "Faster Iris Shadow Mapper"
+filename = "fism+1.21.1-neoforge-1.0.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nSRLvOHG/versions/sQXgelDq/fism%2B1.21.1-neoforge-1.0.5.jar"
+hash-format = "sha256"
+hash = "c06bf21919ecde60b8b4f001cae7bf4bd087c4384e6b217109d77dd5575b3491"
+
+[update]
+[update.modrinth]
+mod-id = "nSRLvOHG"
+version = "sQXgelDq"

@@ -1,0 +1,13 @@
+name = "Via Romana: Infrastructure-Driven Fast Travel"
+filename = "via_romana-2.2.2+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FVToiKwr/versions/7sf8VbzB/via_romana-2.2.2%2B1.21.1-neoforge.jar"
+hash-format = "sha256"
+hash = "7c93686dd28d17369235154c0c7deadea75357bd158114d2e6ec557824340cbc"
+
+[update]
+[update.modrinth]
+mod-id = "FVToiKwr"
+version = "7sf8VbzB"

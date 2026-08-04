@@ -1,0 +1,13 @@
+name = "Simple Netherite Horse Armor"
+filename = "netherite_horse_armor-neoforge-1.21.1-2.0a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nDFVOeq7/versions/PJ7q3Y9v/netherite_horse_armor-neoforge-1.21.1-2.0a.jar"
+hash-format = "sha256"
+hash = "acc3a6c41f568de3b041557956c15552c2ed0b362e7621315af92986a1ad55e0"
+
+[update]
+[update.modrinth]
+mod-id = "nDFVOeq7"
+version = "PJ7q3Y9v"

@@ -1,0 +1,13 @@
+name = "Responsive Shields"
+filename = "responsiveshields-2.4-neoforge-mc1.21.x.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MBmh0f9A/versions/mNqXF51P/responsiveshields-2.4-neoforge-mc1.21.x.jar"
+hash-format = "sha256"
+hash = "529ab63a93b31734b80166e73c10f5a356defb660a5cc985caaf499b17c0145e"
+
+[update]
+[update.modrinth]
+mod-id = "MBmh0f9A"
+version = "mNqXF51P"

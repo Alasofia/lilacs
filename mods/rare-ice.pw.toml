@@ -1,0 +1,13 @@
+name = "Rare Ice"
+filename = "rare-ice-neoforge-0.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uSi0tajU/versions/AovBGJaE/rare-ice-neoforge-0.7.0.jar"
+hash-format = "sha256"
+hash = "72c7601bf5c49bf66c2dbeb142b4dd03bcb243e4186fa1d5d0aaab7a0518cd0c"
+
+[update]
+[update.modrinth]
+mod-id = "uSi0tajU"
+version = "AovBGJaE"

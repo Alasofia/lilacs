@@ -1,0 +1,13 @@
+name = "Trading Post"
+filename = "TradingPost-v21.1.1-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8pcjMDgj/versions/iAzPpBdI/TradingPost-v21.1.1-1.21.1-NeoForge.jar"
+hash-format = "sha256"
+hash = "655e6d187ac592caeac02e37a0325d5d5cfeee48a043c4e4a9d0e02366afc1b6"
+
+[update]
+[update.modrinth]
+mod-id = "8pcjMDgj"
+version = "iAzPpBdI"

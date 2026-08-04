@@ -1,0 +1,13 @@
+name = "Continuity"
+filename = "continuity-3.0.0+1.21.neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1IjD5062/versions/eXGUs5sy/continuity-3.0.0%2B1.21.neoforge.jar"
+hash-format = "sha256"
+hash = "4cc0a4a09ae09c64bb567e42381652b700f9cade5067a75e83115662cc475f0a"
+
+[update]
+[update.modrinth]
+mod-id = "1IjD5062"
+version = "eXGUs5sy"

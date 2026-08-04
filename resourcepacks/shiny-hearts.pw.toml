@@ -1,0 +1,13 @@
+name = "Shiny Hearts"
+filename = "Shiny Hearts 1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fJhp04UU/versions/VGi1caYg/Shiny%20Hearts%201.1.zip"
+hash-format = "sha256"
+hash = "a0171593bdcadfddf86af51adb8067321f7d89d265e73d1f1149317ae7899b74"
+
+[update]
+[update.modrinth]
+mod-id = "fJhp04UU"
+version = "VGi1caYg"

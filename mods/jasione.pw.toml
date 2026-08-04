@@ -1,0 +1,13 @@
+name = "Jasione"
+filename = "jasione-1.0.6+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qlDkBPij/versions/j1Rfpsws/jasione-1.0.6%2B1.21.1-neoforge.jar"
+hash-format = "sha256"
+hash = "ffa3a0445d562a5a8e419bf9458520aa38ae8aa8b3d738167c8bd2a663c05461"
+
+[update]
+[update.modrinth]
+mod-id = "qlDkBPij"
+version = "j1Rfpsws"

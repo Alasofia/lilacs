@@ -1,0 +1,13 @@
+name = "Yeetus Narratus"
+filename = "YeetusNarratus-1.21.1-21.1.217-1.5.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eMNOv9vF/versions/6rnMiIzl/YeetusNarratus-1.21.1-21.1.217-1.5.8.jar"
+hash-format = "sha256"
+hash = "b48852c57d68f76fbc3b5ff4c8bd81e980c330a6153804232d3ce05dd6fb991f"
+
+[update]
+[update.modrinth]
+mod-id = "eMNOv9vF"
+version = "6rnMiIzl"

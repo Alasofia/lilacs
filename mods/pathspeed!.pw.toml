@@ -1,0 +1,13 @@
+name = "PathSpeed!"
+filename = "pathspeed-neoforge-1.4.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/swgESYwZ/versions/OkgP9aU3/pathspeed-neoforge-1.4.0-1.21.1.jar"
+hash-format = "sha256"
+hash = "7f074e7129764ca6bf2b63b593089e4671fbe639ba9682b115feeae5d4beed0f"
+
+[update]
+[update.modrinth]
+mod-id = "swgESYwZ"
+version = "OkgP9aU3"

@@ -1,0 +1,13 @@
+name = "Better World Loading"
+filename = "betterworldloadingnf21-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bmOyRapU/versions/9Nm7qDaq/betterworldloadingnf21-1.0.jar"
+hash-format = "sha256"
+hash = "1f03ee49b48fbb9c138b0426437040408d26b64bc178c4fbac44dbaf90959bb3"
+
+[update]
+[update.modrinth]
+mod-id = "bmOyRapU"
+version = "9Nm7qDaq"

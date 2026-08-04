@@ -1,0 +1,13 @@
+name = "Easy Magic"
+filename = "EasyMagic-v21.1.4-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9hx3AbJM/versions/MxbfrOEv/EasyMagic-v21.1.4-1.21.1-NeoForge.jar"
+hash-format = "sha256"
+hash = "e641a83dcd0dd1a66c545069a706349df94f5b64dc5a252944596439009a699f"
+
+[update]
+[update.modrinth]
+mod-id = "9hx3AbJM"
+version = "MxbfrOEv"

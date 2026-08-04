@@ -1,0 +1,13 @@
+name = "Overgrown Flowery GUI - Mod Compats"
+filename = "Overgrown Flowery GUI - CozyCraft Compats 1.9.5.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XnarGKbi/versions/eFwcMfY5/Overgrown%20Flowery%20GUI%20-%20CozyCraft%20Compats%201.9.5.zip"
+hash-format = "sha256"
+hash = "7acd5f34b62af41475fb21e72d24e6036595067669c62ed6e7038f0dbd510126"
+
+[update]
+[update.modrinth]
+mod-id = "XnarGKbi"
+version = "eFwcMfY5"

@@ -1,0 +1,13 @@
+name = "No Chat Restrictions"
+filename = "NoChatRestrictions-NeoForge-MC1.21.11-v1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/z440MEwJ/versions/GtCgmBXp/NoChatRestrictions-NeoForge-MC1.21.11-v1.0.0.jar"
+hash-format = "sha256"
+hash = "a1a9a020f3434b2aa8b9131d25e3ad16ea33b1f0abb8d72f088a0fbad81f7abe"
+
+[update]
+[update.modrinth]
+mod-id = "z440MEwJ"
+version = "GtCgmBXp"

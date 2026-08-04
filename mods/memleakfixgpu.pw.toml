@@ -1,0 +1,13 @@
+name = "Mem Leak Fix GPU"
+filename = "gpumemleakfix-neoforge-1.21.1-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9LAikcR7/versions/ChMsyWgl/gpumemleakfix-neoforge-1.21.1-1.0.0.jar"
+hash-format = "sha256"
+hash = "69aa024013a1cac1a75df848c91864fbdb8c8333e51550d81935ad82edb33936"
+
+[update]
+[update.modrinth]
+mod-id = "9LAikcR7"
+version = "ChMsyWgl"

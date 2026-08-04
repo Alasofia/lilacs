@@ -1,0 +1,315 @@
+{
+  "layers": {
+    "appleskin:exhaustion_level": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "UP"
+      },
+      "sync": "appleskin:food_offset"
+    },
+    "appleskin:food_offset": {
+      "displacement": {
+        "x": 0,
+        "y": 2
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "UP"
+      },
+      "sync": "appleskin:food_offset"
+    },
+    "appleskin:health_offset": {
+      "displacement": {
+        "x": 0,
+        "y": 2
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "UP"
+      },
+      "sync": "appleskin:health_offset"
+    },
+    "appleskin:health_restored": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "UP"
+      },
+      "sync": "appleskin:health_offset"
+    },
+    "appleskin:hunger_restored": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "UP"
+      },
+      "sync": "appleskin:food_offset"
+    },
+    "appleskin:saturation_level": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "UP"
+      },
+      "sync": "appleskin:food_offset"
+    },
+    "immersiveoverlays:biome": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "immersiveoverlays:biome"
+    },
+    "immersiveoverlays:clock": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "immersiveoverlays:clock"
+    },
+    "immersiveoverlays:compass": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "immersiveoverlays:compass"
+    },
+    "immersiveoverlays:speed": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "immersiveoverlays:speed"
+    },
+    "immersiveoverlays:temperature": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "immersiveoverlays:temperature"
+    },
+    "immersiveoverlays:wind": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "immersiveoverlays:wind"
+    },
+    "map_atlases:atlas": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "map_atlases:atlas"
+    },
+    "minecraft:bossbar": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "DOWN"
+      },
+      "sync": "minecraft:bossbar"
+    },
+    "minecraft:chat": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "UP"
+      },
+      "sync": "minecraft:chat"
+    },
+    "minecraft:effects": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "LEFT",
+        "y": "DOWN"
+      },
+      "sync": "minecraft:effects"
+    },
+    "minecraft:hotbar": {
+      "displacement": {
+        "x": 0,
+        "y": 2
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "UP"
+      },
+      "sync": "minecraft:hotbar"
+    },
+    "minecraft:other": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "minecraft:other"
+    },
+    "minecraft:players": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "DOWN"
+      },
+      "sync": "minecraft:players"
+    },
+    "minecraft:sidebar": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "LEFT",
+        "y": "NONE"
+      },
+      "sync": "minecraft:sidebar"
+    },
+    "minecraft:subtitles": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "LEFT",
+        "y": "UP"
+      },
+      "sync": "minecraft:subtitles"
+    },
+    "minecraft:titles": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "minecraft:titles"
+    },
+    "minecraft:toasts": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "LEFT",
+        "y": "DOWN"
+      },
+      "sync": "minecraft:toasts"
+    },
+    "overflowingbars:toughness_level": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "overflowingbars:toughness_level"
+    },
+    "supplementaries:cannon_charge": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "supplementaries:cannon_charge"
+    },
+    "supplementaries:selectable_container_item": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "supplementaries:selectable_container_item"
+    },
+    "supplementaries:slimed": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "supplementaries:slimed"
+    },
+    "travelerstitles:overlay": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "travelerstitles:overlay"
+    }
+  },
+  "resource": {
+    "texture": "AUTO"
+  }
+}

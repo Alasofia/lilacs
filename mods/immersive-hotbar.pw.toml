@@ -1,0 +1,13 @@
+name = "Immersive Hotbar"
+filename = "immersivehotbar-1.1.2-neoforge-1.21-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hsPB5xMD/versions/Hst8RqgA/immersivehotbar-1.1.2-neoforge-1.21-1.21.1.jar"
+hash-format = "sha256"
+hash = "bb36d5d89f0363cd89d2bcaf575dd715d5e05c98d5b54af9d617332d716f9ecb"
+
+[update]
+[update.modrinth]
+mod-id = "hsPB5xMD"
+version = "Hst8RqgA"

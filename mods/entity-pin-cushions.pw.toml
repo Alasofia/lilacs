@@ -1,0 +1,13 @@
+name = "Entity Pin Cushions"
+filename = "entity_pin_cushions-neoforge-1.21-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YtDL53HG/versions/ymdJIn9G/entity_pin_cushions-neoforge-1.21-1.0.jar"
+hash-format = "sha256"
+hash = "00a80f962030ed24510f7edde345aaf488b09cea11f9424265cbb0c2967005eb"
+
+[update]
+[update.modrinth]
+mod-id = "YtDL53HG"
+version = "ymdJIn9G"

@@ -1,0 +1,13 @@
+name = "Detail Brush - Modded Disc Compat"
+filename = "Detail Brush - Modded Disc Compat.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/u3z0hX42/versions/eOaPF8mU/Detail%20Brush%20-%20Modded%20Disc%20Compat.zip"
+hash-format = "sha256"
+hash = "9b37fdbb0ebe0a95a4fdef635ef15c4fda31b03cec741e616a6b5b8606ba4d56"
+
+[update]
+[update.modrinth]
+mod-id = "u3z0hX42"
+version = "eOaPF8mU"

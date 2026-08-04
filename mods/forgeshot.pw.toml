@@ -1,0 +1,13 @@
+name = "Forgeshot"
+filename = "forgeshot-neoforge-1.21.1-2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3j0bB3uL/versions/8jisLNKN/forgeshot-neoforge-1.21.1-2.0.jar"
+hash-format = "sha256"
+hash = "b5d690d36a0bab751f67fe5cc0e5bb071e287d166e7cbf2124d2c094681f5374"
+
+[update]
+[update.modrinth]
+mod-id = "3j0bB3uL"
+version = "8jisLNKN"

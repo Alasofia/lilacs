@@ -1,0 +1,13 @@
+name = "Reliable Advancements"
+filename = "reliable_advancements-neoforge-1.21.1-4.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xVwaUG1g/versions/BPibMVHD/reliable_advancements-neoforge-1.21.1-4.0.2.jar"
+hash-format = "sha256"
+hash = "f46373ba3bc43254d1dbaa2451058926db076db32851f63330ea6ebf5b6b154f"
+
+[update]
+[update.modrinth]
+mod-id = "xVwaUG1g"
+version = "BPibMVHD"

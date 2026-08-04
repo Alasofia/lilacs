@@ -1,0 +1,13 @@
+name = "Resource Pack Overrides"
+filename = "ResourcePackOverrides-v21.1.0-1.21.1-NeoForge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YsFycamt/versions/xf3H2eJV/ResourcePackOverrides-v21.1.0-1.21.1-NeoForge.jar"
+hash-format = "sha256"
+hash = "5aab7282d287a7de64d6be4e20f4c3b9c577add436ac89fd643b6ce9b4445738"
+
+[update]
+[update.modrinth]
+mod-id = "YsFycamt"
+version = "xf3H2eJV"

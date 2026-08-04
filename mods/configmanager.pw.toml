@@ -1,0 +1,13 @@
+name = "Config Manager"
+filename = "ConfigManager-neoforge-1.21.x-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jlNms3Jp/versions/PoltHx1P/ConfigManager-neoforge-1.21.x-1.0.1.jar"
+hash-format = "sha256"
+hash = "7da6f84ad38bf9fd166bdc799fb2e0c518f379412b580ba221f926dcc26905ca"
+
+[update]
+[update.modrinth]
+mod-id = "jlNms3Jp"
+version = "PoltHx1P"

@@ -1,0 +1,13 @@
+name = "CITResewnNeoPatcher"
+filename = "citresewn_neopatcher-1.2.0-1.2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yYE9h4iu/versions/WvFwXguE/citresewn_neopatcher-1.2.0-1.2.2.jar"
+hash-format = "sha256"
+hash = "711d1e489e71278261109c7ad682a8acf60c0adec6019b79350c254aba1fbe90"
+
+[update]
+[update.modrinth]
+mod-id = "yYE9h4iu"
+version = "WvFwXguE"

@@ -1,0 +1,13 @@
+name = "TxniLib"
+filename = "txnilib-neoforge-1.0.24-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vBbPDuOs/versions/M1CyD3Uu/txnilib-neoforge-1.0.24-1.21.1.jar"
+hash-format = "sha256"
+hash = "411e811a6a53a63c2716dbf71cd1167e3a98d000b884458759d6192720be3e18"
+
+[update]
+[update.modrinth]
+mod-id = "vBbPDuOs"
+version = "M1CyD3Uu"

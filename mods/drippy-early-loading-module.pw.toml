@@ -1,0 +1,13 @@
+name = "Drippy Early Loading Module"
+filename = "drippyloadingscreen-earlywindow_neoforge_3.1.5_MC_1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/k3TlcLvL/versions/12xuEYZB/drippyloadingscreen-earlywindow_neoforge_3.1.5_MC_1.21.1.jar"
+hash-format = "sha256"
+hash = "7ea6fd30ccb87a6532c66af5472e7d8dccd1d66da944081fda8050701e232870"
+
+[update]
+[update.modrinth]
+mod-id = "k3TlcLvL"
+version = "12xuEYZB"

@@ -1,0 +1,13 @@
+name = "Distraction Free Recipes (EMI / REI / JEI)"
+filename = "distraction_free_recipes-neoforge-1.2.1-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gbJLUhZP/versions/H0rFJIiC/distraction_free_recipes-neoforge-1.2.1-1.21.1.jar"
+hash-format = "sha256"
+hash = "006bd026ce6a89df1a111868c6cae57ff02ae2ed8362abb99f8d371413571f40"
+
+[update]
+[update.modrinth]
+mod-id = "gbJLUhZP"
+version = "H0rFJIiC"

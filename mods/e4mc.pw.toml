@@ -1,0 +1,13 @@
+name = "e4mc"
+filename = "e4mc-neoforge-6.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qANg5Jrr/versions/B3hKbv2R/e4mc-neoforge-6.2.1.jar"
+hash-format = "sha256"
+hash = "41ee0d18fafe39f7422712b342248ebffbf392910bdb8d160c928e575edb29f0"
+
+[update]
+[update.modrinth]
+mod-id = "qANg5Jrr"
+version = "B3hKbv2R"

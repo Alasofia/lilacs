@@ -1,0 +1,13 @@
+name = "Portfolio"
+filename = "portfolio-1.21.1-1.5.5-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2k6aLirX/versions/I4pPTqou/portfolio-1.21.1-1.5.5-neoforge.jar"
+hash-format = "sha256"
+hash = "31e1abab9b4aecf526594210b37c66f6c8ad91b77b0693bf021d74853954362a"
+
+[update]
+[update.modrinth]
+mod-id = "2k6aLirX"
+version = "I4pPTqou"

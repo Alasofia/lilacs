@@ -1,0 +1,13 @@
+name = "Simple Music Control"
+filename = "simple_music_control-1.3.7+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8AX2hHnX/versions/AXz4cNsW/simple_music_control-1.3.7%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "1c4c3dfe6c4ce7246be95cbbadc054aad7af9fb3452817972d0fee6a063a0188"
+
+[update]
+[update.modrinth]
+mod-id = "8AX2hHnX"
+version = "AXz4cNsW"

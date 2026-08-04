@@ -1,0 +1,13 @@
+name = "YUNG's Bridges"
+filename = "YungsBridges-1.21.1-NeoForge-5.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ht4BfYp6/versions/urkCzBf6/YungsBridges-1.21.1-NeoForge-5.1.1.jar"
+hash-format = "sha256"
+hash = "bf93a85422a6b457358c3b56352641a97ec09cc37dec18b2cedcac2bd1ff9bec"
+
+[update]
+[update.modrinth]
+mod-id = "Ht4BfYp6"
+version = "urkCzBf6"

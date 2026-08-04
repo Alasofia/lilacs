@@ -1,0 +1,13 @@
+name = "Just Blahaj"
+filename = "just_blahaj-3.1.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NcD25WXU/versions/sTknDQoJ/just_blahaj-3.1.1-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "1e054f5d12977d8b2e831d42005b0ddd3b1be9bff40298f2bf88fd92ec7fa03b"
+
+[update]
+[update.modrinth]
+mod-id = "NcD25WXU"
+version = "sTknDQoJ"

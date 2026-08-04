@@ -1,0 +1,13 @@
+name = "Amplified Nether"
+filename = "Amplified_Nether_26.2_v1.2.16.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wXiGiyGX/versions/agiByWs3/Amplified_Nether_26.2_v1.2.16.jar"
+hash-format = "sha256"
+hash = "fc49dc7f0b9e4cef665e60a97f29b5589025fb9e19b13222d9767e178093eaed"
+
+[update]
+[update.modrinth]
+mod-id = "wXiGiyGX"
+version = "agiByWs3"

@@ -1,0 +1,12 @@
+type = listener_instances
+
+listener_instance {
+  listener_instance_identifier = e06db058-9f87-48f1-b91f-e8a520af596b-1785716482782
+  listener_provider_identifier = zip_extracted_via_action
+  listener_instance_action_script_identifier = 450c8289-cb99-43fc-93a0-9e9b30a9206e-1785716482782
+  [executable_action_instance:7576f0ce-7700-4da6-a246-61f81444f84c-1785716485483][action_type:delete_file_in_game_dir] = /resourcepacks/Extra Flowery GUI/assets/minecraft/textures/gui/sprites/
+  [executable_action_instance:598ee4d1-57c5-4d11-bb06-907d4376efc7-1785716517704][action_type:delete_file_in_game_dir] = /resourcepacks/Extra Flowery GUI/assets/minecraft/textures/font/
+  [executable_action_instance:09743f7c-87da-49ec-a322-5774b1fbf5c4-1785716569154][action_type:manage_resource_pack] = Extra Flowery GUI|||enable|||true
+  [executable_block:450c8289-cb99-43fc-93a0-9e9b30a9206e-1785716482782][type:generic] = [executables:7576f0ce-7700-4da6-a246-61f81444f84c-1785716485483;598ee4d1-57c5-4d11-bb06-907d4376efc7-1785716517704;09743f7c-87da-49ec-a322-5774b1fbf5c4-1785716569154;]
+}
+

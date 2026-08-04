@@ -1,0 +1,13 @@
+name = "Shiny Horses Reborn"
+filename = "shinyhorsesreborn-1.2.0-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ik3MOx37/versions/FLt4dF7E/shinyhorsesreborn-1.2.0-1.21.1-neoforge.jar"
+hash-format = "sha256"
+hash = "7fa81e6fbf1e446a9942c68b577d26eaa25606621ca0adf097c8bd5def3646b5"
+
+[update]
+[update.modrinth]
+mod-id = "Ik3MOx37"
+version = "FLt4dF7E"

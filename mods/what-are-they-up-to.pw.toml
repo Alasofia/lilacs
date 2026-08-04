@@ -1,0 +1,13 @@
+name = "What Are They Up To (Watut)"
+filename = "watut-neoforge-1.21.0-1.2.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AtB5mHky/versions/uWr2aTW9/watut-neoforge-1.21.0-1.2.7.jar"
+hash-format = "sha256"
+hash = "b1aac4b9832e16439ee86f27814f7b6a42f2f6bea0ea6949dfffffcd0599d88c"
+
+[update]
+[update.modrinth]
+mod-id = "AtB5mHky"
+version = "uWr2aTW9"

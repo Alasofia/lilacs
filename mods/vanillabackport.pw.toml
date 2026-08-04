@@ -1,0 +1,13 @@
+name = "Vanilla Backport"
+filename = "VanillaBackport-neoforge-1.21.1-1.1.7.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6xwxDTgf/versions/rUSWdBok/VanillaBackport-neoforge-1.21.1-1.1.7.10.jar"
+hash-format = "sha256"
+hash = "ecd807ac358e243ede17819455788c7b7a0ce5e0af4aecee82c1c62c586d818d"
+
+[update]
+[update.modrinth]
+mod-id = "6xwxDTgf"
+version = "rUSWdBok"

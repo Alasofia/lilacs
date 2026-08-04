@@ -1,0 +1,13 @@
+name = "YUNG's Better Mineshafts"
+filename = "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HjmxVlSr/versions/Go3nbneL/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar"
+hash-format = "sha256"
+hash = "5625930dfb3240820d6e4ecf55fff0c39f70ce782fad117a4d418251184c7be0"
+
+[update]
+[update.modrinth]
+mod-id = "HjmxVlSr"
+version = "Go3nbneL"

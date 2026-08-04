@@ -1,0 +1,13 @@
+name = "YUNG's Better Jungle Temples"
+filename = "YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z9Ve58Ih/versions/P00i2hJn/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar"
+hash-format = "sha256"
+hash = "a0d57b78c7a1891796f342b1f09c214bc27bedf0a3a894f029dfdb2db9f813d0"
+
+[update]
+[update.modrinth]
+mod-id = "z9Ve58Ih"
+version = "P00i2hJn"

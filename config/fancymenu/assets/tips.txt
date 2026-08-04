@@ -1,0 +1,5 @@
+Press "C" to crouch!
+Take a jar of lava with you!
+Faucets move fluids, try them out.
+Try vertical slabs!
+Press CTRL to show info on something!

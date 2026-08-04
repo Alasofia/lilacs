@@ -1,0 +1,13 @@
+name = "Personality"
+filename = "personality-1.21.1-5.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zrAMu1nt/versions/GQKsKYS3/personality-1.21.1-5.0.2.jar"
+hash-format = "sha256"
+hash = "9c0fd81a32f60b8af933816d06f2cf58d53ce6433221b820ab0b90df686df248"
+
+[update]
+[update.modrinth]
+mod-id = "zrAMu1nt"
+version = "GQKsKYS3"

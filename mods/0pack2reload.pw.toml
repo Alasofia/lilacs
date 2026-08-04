@@ -1,0 +1,13 @@
+name = "0Pack2Reload"
+filename = "0Pack2Reload-NeoForge-1.21.1-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2hl2n0xu/versions/EK7eZaba/0Pack2Reload-NeoForge-1.21.1-1.0.1.jar"
+hash-format = "sha256"
+hash = "a0c5e1558db5c5bab7547cfe68f75b84ddaad3abcbe7b6a0eb72238e61ff610d"
+
+[update]
+[update.modrinth]
+mod-id = "2hl2n0xu"
+version = "EK7eZaba"

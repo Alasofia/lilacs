@@ -1,0 +1,13 @@
+name = "Cat Loaf"
+filename = "catloaf-1.1.2-1.21-NEOFORGED.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q1ZgOTni/versions/X1JOqbq2/catloaf-1.1.2-1.21-NEOFORGED.jar"
+hash-format = "sha256"
+hash = "85b64da6b0ede8a70085330386a7eea59f8ed20a7b5717c82d10363c99965546"
+
+[update]
+[update.modrinth]
+mod-id = "Q1ZgOTni"
+version = "X1JOqbq2"

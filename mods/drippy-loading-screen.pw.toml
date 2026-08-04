@@ -1,0 +1,13 @@
+name = "Drippy Loading Screen"
+filename = "drippyloadingscreen_neoforge_3.1.5_MC_1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/v3CYg2V9/versions/MVgsDsSB/drippyloadingscreen_neoforge_3.1.5_MC_1.21.1.jar"
+hash-format = "sha256"
+hash = "f1fcb6cf3cbc7a6055fed0912bf284a7c455a0830de42460943fc5e130072759"
+
+[update]
+[update.modrinth]
+mod-id = "v3CYg2V9"
+version = "MVgsDsSB"

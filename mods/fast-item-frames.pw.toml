@@ -1,0 +1,13 @@
+name = "Fast Item Frames"
+filename = "FastItemFrames-v21.1.6-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FsoeTIV0/versions/gAkkWcSn/FastItemFrames-v21.1.6-1.21.1-NeoForge.jar"
+hash-format = "sha256"
+hash = "e831a12ca075450295aa26c8862d641498f8031af10674d60a791d2f27be17be"
+
+[update]
+[update.modrinth]
+mod-id = "FsoeTIV0"
+version = "gAkkWcSn"

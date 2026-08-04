@@ -1,0 +1,13 @@
+name = "Seamless Loading Screen "
+filename = "seamless-loading-screen-2.2.1+1.21-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TyTPFOiF/versions/lEeBiPTm/seamless-loading-screen-2.2.1%2B1.21-neoforge.jar"
+hash-format = "sha256"
+hash = "ab251f81080f4d0891d8576ab14b598f3e46b699a17baf58ffab7a9a2efeb395"
+
+[update]
+[update.modrinth]
+mod-id = "TyTPFOiF"
+version = "lEeBiPTm"

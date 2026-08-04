@@ -1,0 +1,13 @@
+name = "Separated Leaves"
+filename = "separatedleaves-2.6.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xEu0FTVG/versions/dydDWiau/separatedleaves-2.6.1-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "ff8ba0bf7c8716745a17044fd40b3c9f14da60f1894bc877ba127d3aeb7fded6"
+
+[update]
+[update.modrinth]
+mod-id = "xEu0FTVG"
+version = "dydDWiau"

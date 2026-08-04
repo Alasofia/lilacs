@@ -1,0 +1,13 @@
+name = "The Roads More Travelled [TRMT]"
+filename = "trmt-0.5.1-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/74oZhrEe/versions/JbhahSQp/trmt-0.5.1-1.21.1-neoforge.jar"
+hash-format = "sha256"
+hash = "587ffebf3ac00e6a4740502aca4ab25d929d425c945841db76a3d40556cf1682"
+
+[update]
+[update.modrinth]
+mod-id = "74oZhrEe"
+version = "JbhahSQp"

@@ -1,0 +1,13 @@
+name = "MMV - Moog's Missing Villages"
+filename = "MoogsMissingVillages-1.21-2.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/spZb29SD/versions/1HLHTaPT/MoogsMissingVillages-1.21-2.1.2.jar"
+hash-format = "sha256"
+hash = "971966a8ad9721b9a8393d362e5f323bc63e61d9596f34183d6186b3b4c2b610"
+
+[update]
+[update.modrinth]
+mod-id = "spZb29SD"
+version = "1HLHTaPT"

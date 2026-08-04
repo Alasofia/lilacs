@@ -1,0 +1,13 @@
+name = "Useful Lanterns"
+filename = "usefullanterns-1.0.5-1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6WmkI00Y/versions/agwLfxEs/usefullanterns-1.0.5-1.21.jar"
+hash-format = "sha256"
+hash = "a60eda28226a59cdc21eaaa2bc273e4a64c31938db0b52b21ddb0c8fabb97919"
+
+[update]
+[update.modrinth]
+mod-id = "6WmkI00Y"
+version = "agwLfxEs"

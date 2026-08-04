@@ -1,0 +1,16 @@
+name = "lilacs"
+author = "alas"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bad53d1c12e61ed8b164fd569a501c72685bd94f676490504a3b73ef9cc38136"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.244"
+
+[options]
+acceptable-game-versions = []
