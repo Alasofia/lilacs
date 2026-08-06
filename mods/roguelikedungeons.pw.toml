@@ -1,6 +1,6 @@
 name = "Roguelike Dungeons"
 filename = "RoguelikeDungeons-2.1.0-1.21.1-fabric.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/MFpvbNGE/versions/UkTMpSY2/RoguelikeDungeons-2.1.0-1.21.1-fabric.jar"

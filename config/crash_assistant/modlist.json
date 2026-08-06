@@ -125,6 +125,14 @@
     "curseForgeHash": 2574672049,
     "modrinthHash": "8fa17df26d3650416bc124be7a264bc1566a3b26"
   },
+  "BetterThanMending-2.2.0.jar": {
+    "jarName": "BetterThanMending-2.2.0.jar",
+    "modId": "betterthanmending",
+    "name": "BetterThanMending",
+    "version": "2.2.0",
+    "curseForgeHash": 2782321948,
+    "modrinthHash": "868135dde3fc2f33150870de4a0f1831b74b755a"
+  },
   "betterworldloadingnf21-1.0.jar": {
     "jarName": "betterworldloadingnf21-1.0.jar",
     "modId": "betterworldloadingnf21",
@@ -326,6 +334,14 @@
     "version": "19.0.5",
     "curseForgeHash": 1306717928,
     "modrinthHash": "8a34424fc1428778be2fdbfa4da67b21b70bcbfe"
+  },
+  "ConvenientEffects-v21.1.4-1.21.1-NeoForge.jar": {
+    "jarName": "ConvenientEffects-v21.1.4-1.21.1-NeoForge.jar",
+    "modId": "convenienteffects",
+    "name": "Convenient Effects",
+    "version": "21.1.4",
+    "curseForgeHash": 1313665951,
+    "modrinthHash": "7ecc7477275a38b71884d1066174fb711761201a"
   },
   "coolrain-1.21.1-NeoForge-1.0.1.jar": {
     "jarName": "coolrain-1.21.1-NeoForge-1.0.1.jar",
@@ -1262,6 +1278,14 @@
     "curseForgeHash": 1347363362,
     "modrinthHash": "3c8d34c7efe9e42fc90506acbf9fc842d36f9a42"
   },
+  "RoguelikeDungeons-2.1.0-1.21.1-fabric.jar": {
+    "jarName": "RoguelikeDungeons-2.1.0-1.21.1-fabric.jar",
+    "modId": "roguelike",
+    "name": "Roguelike Dungeons",
+    "version": "2.1.0-1.21.1-fabric",
+    "curseForgeHash": 984611817,
+    "modrinthHash": "94609c7f5db45a54cf5c3588968a11a80d3765a5"
+  },
   "saturn-mc1.21.1-0.1.5.jar": {
     "jarName": "saturn-mc1.21.1-0.1.5.jar",
     "modId": "saturn",
@@ -1534,14 +1558,6 @@
     "curseForgeHash": 1163983694,
     "modrinthHash": "f54756f938c7c273713b9f97d4a987eec551e892"
   },
-  "trmt-0.5.1-1.21.1-neoforge.jar": {
-    "jarName": "trmt-0.5.1-1.21.1-neoforge.jar",
-    "modId": "trmt",
-    "name": "The Roads More Travelled",
-    "version": "0.5.1-1.21.1-neoforge",
-    "curseForgeHash": 1636409160,
-    "modrinthHash": "3d2a0b7c28390a8ebe590945aea9fa1208d88c36"
-  },
   "txnilib-neoforge-1.0.24-1.21.1.jar": {
     "jarName": "txnilib-neoforge-1.0.24-1.21.1.jar",
     "modId": "txnilib",
@@ -1743,26 +1759,11 @@
   "Detail-Brush-1.8-1.20.2+.zip (resourcepack)": {
     "jarName": "Detail-Brush-1.8-1.20.2+.zip (resourcepack)"
   },
-  "Extra Flowery GUI (resourcepack)": {
-    "jarName": "Extra Flowery GUI (resourcepack)"
-  },
-  "Extra Flowery GUI.zip (resourcepack)": {
-    "jarName": "Extra Flowery GUI.zip (resourcepack)"
-  },
-  "Hotbar Numbered [1.2.1].zip (resourcepack)": {
-    "jarName": "Hotbar Numbered [1.2.1].zip (resourcepack)"
-  },
   "Low Fire.zip (resourcepack)": {
     "jarName": "Low Fire.zip (resourcepack)"
   },
   "mod-descriptions-v12.0.zip (resourcepack)": {
     "jarName": "mod-descriptions-v12.0.zip (resourcepack)"
-  },
-  "Overgrown Flowery GUI - CozyCraft Compats 1.9.5.zip (resourcepack)": {
-    "jarName": "Overgrown Flowery GUI - CozyCraft Compats 1.9.5.zip (resourcepack)"
-  },
-  "Overgrown Flowery GUI.zip (resourcepack)": {
-    "jarName": "Overgrown Flowery GUI.zip (resourcepack)"
   },
   "Shiny Hearts 1.1.zip (resourcepack)": {
     "jarName": "Shiny Hearts 1.1.zip (resourcepack)"

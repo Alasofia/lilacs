@@ -3,6 +3,27 @@ All notable changes to this project will be documented in this file.
 
 The format is based on Keep a Changelog,
 and this project adheres to Semantic Versioning.
+
+
+## [0.1.1-alpha] - August 5th 2026
+### Added
+- [Better Than Mending](https://modrinth.com/mod/Lvv4SHrK)
+- [Convenient Effects](https://modrinth.com/mod/BEVhblTh)
+- [Roguelike Dungeons](https://modrinth.com/mod/roguelike-dungeons) (Previously installed but configured for only server-side)
+
+### Changes
+- Reverted FancyMenu resource pack shenanigans
+- Disabled world loading chunk load sound
+- Removed Extra Flowery GUI & Overgrown Flowery GUI
+- Reduced PresenceFootsteps sound from 70 to 35
+- Removed useless Curios button in the inventory
+- Removed The Roads More Travelled
+- Updated FancyMenu configs
+
+
+
+
+
 ## [0.1.0-alpha] - August 4th 2026
 
 ### Added

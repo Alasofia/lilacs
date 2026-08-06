@@ -1,0 +1,13 @@
+name = "Convenient Effects"
+filename = "ConvenientEffects-v21.1.4-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BEVhblTh/versions/FpdaIV35/ConvenientEffects-v21.1.4-1.21.1-NeoForge.jar"
+hash-format = "sha256"
+hash = "6fd661a70afeec2725f597c7fd500a7d87db2013fe6d951ab7fb22503cc9b1e8"
+
+[update]
+[update.modrinth]
+mod-id = "BEVhblTh"
+version = "FpdaIV35"

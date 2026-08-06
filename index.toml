@@ -1,12 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".CHANGELOG.md.kate-swp"
-hash = "9a5ecef6425ca9b6387f9dffaceccfa430ae82965a7efc05b0df05bc3da2d78c"
-
-[[files]]
 file = "CHANGELOG.md"
-hash = "60c8e59ec2b7689b88d2d8adaf9e3f02b6d70c71b46fead7f70aa0ccc52518f1"
+hash = "ed6f750f55aa97ebc3a6c5d908752bb2094278e720f7452a6ce4b14768d47cbb"
 
 [[files]]
 file = "LICENSE"
@@ -17,16 +13,20 @@ file = "README.md"
 hash = "8052b22db8819550e6534ff5304d3ec649878d23da7319f822f50845593798db"
 
 [[files]]
+file = "TODO.md"
+hash = "c1d1015003b22a9c3895ad16bec5d54c706dd848d20ad441529e58529caaa2d8"
+
+[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "4e5cea9af004650e0d31a6b3abf9672e1a3c5870c934bb98f6f8cd4de567d11e"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "0ff8de35af318d080d02ade4532054aad1f38fb61a779a1c317e0bcc57e69b3c"
+hash = "9523e953c7a640ec1e33c59a646f32e5053d24853edf034438ade4b10bcbc3d7"
 
 [[files]]
 file = "config/betterworldloadingnf21.json"
-hash = "b43d2b14c5570ec7b3fedfba28d615f2fb29b8f2c9ce94d0e2333df3abf21b5c"
+hash = "16ba5cbf5173807b7f94bf63ff98178a5c01788f5f634241444de8e1f999ab84"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
@@ -34,7 +34,7 @@ hash = "cff53ebbc3eb9f63ab214a3bf654d3bf26f382b1a75200fade7cac54cb13e0db"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "eac2e91d21521ec66a3a338d8c9d4282a5a166d707dedb0f2597d610166be984"
+hash = "2e4a0e42648cb3aa0c22ee3ee4148b9a06dc932ccc18498a72de57c87b538a49"
 
 [[files]]
 file = "config/emi.css"
@@ -62,15 +62,15 @@ hash = "bf9a1cc1323e67d41f56d19cc1a9b6627ee68ff63a7115775bd5687963b2496d"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
-hash = "c4faed601388cf244c0426a0f21e4e225c4b63b113f8a0d3fd5d6600a20aff35"
+hash = "719db6089d8bac802adda82c09ba0870649d4d2c89c0304e5ce78cdf5bb30354"
 
 [[files]]
 file = "config/fancymenu/customization/inventory_screen_layout.txt"
-hash = "27495d9fb577abe57535f438aaf032032727c5983b47e8aa0827bbd92ff2877b"
+hash = "1daa00602ad3e4280af7e9892a5b8e3e464dc5990a6dd033469ed0b8bcd36de3"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "44d788c1afd7710a72743642f55a6ba2745b9af3c6d2d6147085054c4d2c07b1"
+hash = "710f5d7c6d7f77b35067cc067594e5d4ae1d6883aae36a03ad6d7f6182f89279"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -82,11 +82,11 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/listener_instances.txt"
-hash = "615f1302e5177bf7490c4c2065bbf55d921a040a8ff937fd1fb8a2b7733a7dd4"
+hash = "804d57bc3445aec2e62f4d3049f1b6ab0d4a2febadc2f4ec9fe8ee1507034fdc"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "53d25fe7c9fa2181e3956fe59f99f694bb859fd9b3438a8ae9188b30a69ee1af"
+hash = "e1949d471c457ed55bf1ce56d989eb75c3c592e395d1e8ac605540e561226fe2"
 
 [[files]]
 file = "config/fancymenu/ui_themes/cherry_blossom.json"
@@ -146,7 +146,11 @@ hash = "3966d1a56770e664b5f1a86e438bb66f0f89e0f1c7bc7fe5b3b1ddfa05ee82dd"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "52a3a6e773f7c7757dc48139854e6c1c11ec9d69b23318eac79a3075703ff90d"
+hash = "a40d344234b1c43c98b9c5db13c5f7548fab40926c8c1f5e51e330a9521e4f92"
+
+[[files]]
+file = "config/presencefootsteps/userconfig.json"
+hash = "3db206bc0ed84083c71250cfd85a7f4e04dacd60e1394ae9bbf0f92363701957"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -155,6 +159,18 @@ hash = "336064efab58b2bd82354ae297db9262aa1a9eb2b3498c768ee4eeae89caa0e4"
 [[files]]
 file = "config/raised.json"
 hash = "d2b48d54366aa3608f852974b49dcfa64a2d0a8c5ce2c1430d7614875fde7d42"
+
+[[files]]
+file = "config/simple-modpack-update-checker.json"
+hash = "14dd6f5405d3e5721d3e807ae5a0bdb1704f4c5056687640bfdb83429dbe3a2d"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "8ddaee38994c33a20cdc6e3bcf8f6ce349749caef5da9946d50b093759556ac0"
+
+[[files]]
+file = "config/sparsestructures.json5"
+hash = "75a830a8a005a44bbc21b51066d54558f6dd1fa61960e9fedd173ade24913725"
 
 [[files]]
 file = "config/starterkit.json5"
@@ -266,6 +282,11 @@ metafile = true
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "d60008dd949072ee4637c9601766244d7d2b04e66834ea17f40c6cf44f421870"
+metafile = true
+
+[[files]]
+file = "mods/better-than-mending.pw.toml"
+hash = "1732c9e920af406d1c101f4442b581050b2f792c062723494dedc005ee927c08"
 metafile = true
 
 [[files]]
@@ -400,6 +421,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "03a96b691ba94825515c313a0504f46032f0b6c63418f928c30fb22be8d77073"
+metafile = true
+
+[[files]]
+file = "mods/convenient-effects.pw.toml"
+hash = "e9fe70932add0fd58e7db671676d50337bcbb46fe5a40bea6341f910502ca982"
 metafile = true
 
 [[files]]
@@ -988,7 +1014,7 @@ metafile = true
 
 [[files]]
 file = "mods/roguelikedungeons.pw.toml"
-hash = "86a350f412390ac6b0d0dbda9e53c3fe2f657da126ca372a6e6584a8398d0684"
+hash = "c16953f514aeada366f1f1144214d07144a47aa878c138fde0e3df9356d2a7f1"
 metafile = true
 
 [[files]]
@@ -1124,11 +1150,6 @@ metafile = true
 [[files]]
 file = "mods/the-ponderer.pw.toml"
 hash = "7f17cf2b8f717c827e88ade442faa203bc894ad9530eea67e054cab60c3acf49"
-metafile = true
-
-[[files]]
-file = "mods/the-roads-more-travelled.pw.toml"
-hash = "070039b9f3df6845b954c4172b8ab50c8d38f363380f6ac6bac30a36561191bc"
 metafile = true
 
 [[files]]
@@ -1297,11 +1318,6 @@ hash = "f3102ab2b538d89976e3d5776b18daa831517928bb22cea0d9464e7a87d848ff"
 metafile = true
 
 [[files]]
-file = "resourcepacks/extra-flowery-gui.pw.toml"
-hash = "4117a16df1bab67b1bfea20a2a3733292f87f736924dbb0619a095fbcb251dff"
-metafile = true
-
-[[files]]
 file = "resourcepacks/low-fire-pack.pw.toml"
 hash = "e6e0c1b4d0f12b1bd8e7ac19390f32301a231aeaff2028fc16a56668b3e1c1cc"
 metafile = true
@@ -1309,16 +1325,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/mod-descriptions.pw.toml"
 hash = "c09d1f6be306dcd45cafb81eb8612a9ec3452fb3704283291b86f0bfe0b8194f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/overgrown-flowery-gui-mod-compats.pw.toml"
-hash = "8de2fd5265726abe213bf8431fbdf9cdca70130f8276eabe65fd20fd211b784e"
-metafile = true
-
-[[files]]
-file = "resourcepacks/overgrown-flowery-gui.pw.toml"
-hash = "d676e9d38a4ade3ba8d879c5fd788025d0c85b93e844e18d86fc5aaa3cebc95b"
 metafile = true
 
 [[files]]

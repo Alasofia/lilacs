@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = drippy_loading_overlay
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1785711153434
+  last_edited_time = 1785885708555
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:ef5ae3d6-e409-4b76-9366-d763f4ebfe8d-1785711096873] = [groups:][instances:]
+  [loading_requirement_container_meta:48b67483-78e3-40b0-bf63-0dcf30d2bccd-1785885688640] = [groups:][instances:]
 }
 
 menu_background {
@@ -340,26 +340,9 @@ scroll_list_customization {
 
 layout_action_executable_blocks {
   open_screen_executable_block_identifier = 276342a2-5b42-4ca7-974b-bf0e9e074783-1785710155075
-  [executable_action_instance:41527c16-77e4-481d-b05f-c3694c70e76f-1785710364714][action_type:extract_zip_file_in_game_dir] = /resourcepacks/Extra Flowery GUI.zip||/resourcepacks/Extra Flowery GUI/
-  [executable_block:ac7a29ce-36ad-45a8-b267-71ca12d9d29c-1785710361495][type:if] = [executables:41527c16-77e4-481d-b05f-c3694c70e76f-1785710364714;]
-  [if_executable_block_body:ac7a29ce-36ad-45a8-b267-71ca12d9d29c-1785710361495] = dde40c4f-d54d-4cb3-b842-fdd2a79dfac0-1785710161155
-  [loading_requirement_container_meta:dde40c4f-d54d-4cb3-b842-fdd2a79dfac0-1785710161155] = [groups:][instances:e6fdf81c-c299-4e15-a448-3051a7c748a8-1785710162421;]
-  [loading_requirement:fancymenu_loading_requirement_file_exists][requirement_mode:if_not][req_id:e6fdf81c-c299-4e15-a448-3051a7c748a8-1785710162421] = /resourcepacks/Extra Flowery GUI/
-  [if_executable_block_collapsed:ac7a29ce-36ad-45a8-b267-71ca12d9d29c-1785710361495] = false
-  [executable_block:276342a2-5b42-4ca7-974b-bf0e9e074783-1785710155075][type:generic] = [executables:ac7a29ce-36ad-45a8-b267-71ca12d9d29c-1785710361495;]
+  [executable_block:276342a2-5b42-4ca7-974b-bf0e9e074783-1785710155075][type:generic] = [executables:]
   close_screen_executable_block_identifier = 3282169c-23f3-4249-ad8d-fccc6ea4ec70-1785710639062
-  [executable_action_instance:e6376845-d590-48c5-a637-8e158217e3e6-1785710643728][action_type:delete_file_in_game_dir] = /resourcepacks/Extra Flowery GUI/ assets/minecraft/textures/font/
-  [executable_action_instance:7f89880e-c839-437f-9c3d-9930ee93fe0b-1785710679628][action_type:delete_file_in_game_dir] = /resourcepacks/Extra Flowery GUI/ assets/minecraft/textures/gui/sprites/
-  [executable_action_instance:f477f55b-9010-4fcd-8d44-d97fccd92b94-1785710743378][action_type:manage_resource_pack] = Extra Flowery GUI|||enable|||true
-  [executable_block:109a0214-8bfc-4c12-9396-24b117468edd-1785711146018][type:delay] = [executables:e6376845-d590-48c5-a637-8e158217e3e6-1785710643728;7f89880e-c839-437f-9c3d-9930ee93fe0b-1785710679628;f477f55b-9010-4fcd-8d44-d97fccd92b94-1785710743378;]
-  [delay_executable_block_value:109a0214-8bfc-4c12-9396-24b117468edd-1785711146018] = 5000
-  [delay_executable_block_collapsed:109a0214-8bfc-4c12-9396-24b117468edd-1785711146018] = false
-  [executable_block:d0a3fe77-74ac-48de-bba0-a02843ffffdd-1785711133218][type:if] = [executables:109a0214-8bfc-4c12-9396-24b117468edd-1785711146018;]
-  [if_executable_block_body:d0a3fe77-74ac-48de-bba0-a02843ffffdd-1785711133218] = a203491b-a6cc-411f-a425-34797e33492f-1785711104451
-  [loading_requirement_container_meta:a203491b-a6cc-411f-a425-34797e33492f-1785711104451] = [groups:][instances:606cdde8-decc-4ec3-8221-158c43f57007-1785711116647;]
-  [loading_requirement:fancymenu_loading_requirement_file_exists][requirement_mode:if][req_id:606cdde8-decc-4ec3-8221-158c43f57007-1785711116647] = /resourcepacks/Extra Flowery GUI/
-  [if_executable_block_collapsed:d0a3fe77-74ac-48de-bba0-a02843ffffdd-1785711133218] = false
-  [executable_block:3282169c-23f3-4249-ad8d-fccc6ea4ec70-1785710639062][type:generic] = [executables:d0a3fe77-74ac-48de-bba0-a02843ffffdd-1785711133218;]
+  [executable_block:3282169c-23f3-4249-ad8d-fccc6ea4ec70-1785710639062][type:generic] = [executables:]
 }
 
 vanilla_button {

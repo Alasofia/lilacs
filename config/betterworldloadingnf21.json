@@ -1,4 +1,4 @@
 {
-  "enableLoadingSound": true,
+  "enableLoadingSound": false,
   "enableChunkInfo": false
 }
