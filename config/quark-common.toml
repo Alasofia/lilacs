@@ -305,7 +305,7 @@
 		"Enable Shulker Box Interaction" = true
 		"Enable Lava Interaction" = true
 		"Allow Opening Shulker Boxes" = true
-		"Allow Rotating Bundles" = true
+		"Allow Rotating Bundles" = false
 
 	[management.hotbar_changer]
 		"Animation Time" = 7.0
@@ -1883,7 +1883,7 @@
 	"Matrix Enchanting" = true
 	Pipes = true
 	"Tiny Potato" = true
-	"Totem Of Holding" = true
+	"Totem Of Holding" = false
 
 	[oddities.backpack]
 		#Set this to true to allow the backpacks to be unequipped even with items in them

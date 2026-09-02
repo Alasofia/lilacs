@@ -5,6 +5,20 @@ The format is based on Keep a Changelog,
 and this project adheres to Semantic Versioning.
 
 
+## [0.2.1-beta] - September 2nd 2026
+### Added
+- [Corpse](https://modrinth.com/mod/corpse)
+- [Polymorph](https://modrinth.com/mod/polymorph)
+- [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
+- [Simple Voice Chat Interaction](https://modrinth.com/mod/voice-chat-interaction)
+
+### Changes
+- Fixed Responsive Shields sidedness
+- Disabled Quark Totem of Holding
+- Removed BetterF3
+- Disabled Quark rotating bundle
+- Removed The Impossible Loader (unused dependency)
+
 ## [0.2.0-beta] - September 1st 2026
 ### Added
 - [Blooming Biosphere](https://modrinth.com/datapack/blooming-biosphere)

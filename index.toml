@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".CHANGELOG.md.kate-swp"
+hash = "0a2689b68d3cda4bcc52c62684a9704bfeec72dcf85e51d6ab03e4a581dab78d"
+
+[[files]]
 file = "CHANGELOG.md"
 hash = "4d7bea2a3805d6f2994f9aca6abce39ca3ff65323ebb2bd86bbba22dcb1f0440"
 
@@ -106,7 +110,7 @@ hash = "3db206bc0ed84083c71250cfd85a7f4e04dacd60e1394ae9bbf0f92363701957"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "5c0e266fd692a8425b08fa3aa2b8743e85cb6ca653899bc368e98d693238f332"
+hash = "daf441551add58c5f19f99c00420631c04fef8bc8f03c673a44dcc72a04beb8c"
 
 [[files]]
 file = "config/raised.json"
@@ -282,11 +286,6 @@ hash = "c75c323f691bb6004b699c536a314f9ef4827a43762d6b56284bebe0e7ca2f98"
 metafile = true
 
 [[files]]
-file = "mods/betterf3.pw.toml"
-hash = "fa500d5f166adb739f5803d980ee1e0030d5860c8574c1ad88f027193145cb84"
-metafile = true
-
-[[files]]
 file = "mods/blooming-biosphere.pw.toml"
 hash = "2228e47f36dca8fa992347ddf529b2fd30f405549a34b854713b28939de44628"
 metafile = true
@@ -433,6 +432,11 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "102b88ab1cf48a8140baffdfb486bb19001b2cb0413c7b5b3ea5a6edc3a01794"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "6af2669e70126995f6351da665bfbfa2146f3b4ed6398fb6b1a566d8a2b51719"
 metafile = true
 
 [[files]]
@@ -945,6 +949,11 @@ hash = "15e6269a1ff8ec3d432a39c645c21f0e9893c5031dd822e489c8bfd683f808e2"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "51765ff01374f54a8ce58b0a21e0191ee7cc106c5c92be5337a37d75d775ce3b"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "236400a54b4f648e90cff4bb38c36a94f400ee954316a4b6bcdd409cf30b65ba"
 metafile = true
@@ -1090,6 +1099,11 @@ hash = "98f3111e903a7f6af760a3da9b7c40924144a5a5449b35d11b027b4b0ab40a62"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "fc5ebf2978944ac05efbdb1c2199c33d094a29f07dce2347d0d0cf5cb4962321"
+metafile = true
+
+[[files]]
 file = "mods/smooth-gui.pw.toml"
 hash = "77609e68c7e3716a23cbcec78e1ab7222939ffb1149f579e9974612ca7338f48"
 metafile = true
@@ -1157,11 +1171,6 @@ metafile = true
 [[files]]
 file = "mods/teallib.pw.toml"
 hash = "dc5b009cf7c518e1986fb97257e169ddf3446c452b47f5c857a42da0f3a51d82"
-metafile = true
-
-[[files]]
-file = "mods/the-impossible-library.pw.toml"
-hash = "5727dbee2b4a6ef5e0093583590b4542eef9e8027748cc472bc7d23dc4a0396e"
 metafile = true
 
 [[files]]
@@ -1242,6 +1251,11 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "b4c73453ccaacad2d363330ddb7f4e91865cbe216604ee64fac477694f55fb94"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "fcf3a6c641f0e62bfa535da62d8a8f143df73b496ddc0ece78bac787f7289ef8"
 metafile = true
 
 [[files]]
