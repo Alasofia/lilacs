@@ -3,11 +3,11 @@ filename = "Detail Brush - Modded Disc Compat.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/u3z0hX42/versions/eOaPF8mU/Detail%20Brush%20-%20Modded%20Disc%20Compat.zip"
+url = "https://cdn.modrinth.com/data/u3z0hX42/versions/eXcHP4o0/Detail%20Brush%20-%20Modded%20Disc%20Compat.zip"
 hash-format = "sha256"
-hash = "9b37fdbb0ebe0a95a4fdef635ef15c4fda31b03cec741e616a6b5b8606ba4d56"
+hash = "41992644d59f5ace87b67ed1e2bab6a83da15ed29a53e3eebd0e0c26055feb09"
 
 [update]
 [update.modrinth]
 mod-id = "u3z0hX42"
-version = "eOaPF8mU"
+version = "eXcHP4o0"

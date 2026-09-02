@@ -1,0 +1,13 @@
+name = "Fishing Real"
+filename = "fishingreal-neoforge-1.21.1-1.9.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MIdaKqt7/versions/b8gdTrAQ/fishingreal-neoforge-1.21.1-1.9.1.jar"
+hash-format = "sha256"
+hash = "7e82506f23b48a011ddb5df81fb62c6343cf344c29622ddf0108c206aa06fd43"
+
+[update]
+[update.modrinth]
+mod-id = "MIdaKqt7"
+version = "b8gdTrAQ"

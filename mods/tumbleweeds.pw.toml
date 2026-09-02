@@ -1,0 +1,13 @@
+name = "Tumbleweeds"
+filename = "tumbleweeds-1.1.0+mc1.21-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XDyDSNLP/versions/HRwr7zWu/tumbleweeds-1.1.0%2Bmc1.21-1.21.1.jar"
+hash-format = "sha256"
+hash = "31f5cbbd0689b8586863942cabd0fb272e885d3dfaa252f50a2d13ca1f3d6e07"
+
+[update]
+[update.modrinth]
+mod-id = "XDyDSNLP"
+version = "HRwr7zWu"

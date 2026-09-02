@@ -1,0 +1,13 @@
+name = "Mobs Always Drop"
+filename = "mobs-always-drop-1.8-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pYVzGeNA/versions/TQoeHpzL/mobs-always-drop-1.8-1.21.1.jar"
+hash-format = "sha256"
+hash = "5c36f35c78e112edce5071684d0b30939492ddf66c3c890284ad7ee7a9c3ecd2"
+
+[update]
+[update.modrinth]
+mod-id = "pYVzGeNA"
+version = "TQoeHpzL"

@@ -1,0 +1,13 @@
+name = "Cascades"
+filename = "hybrid-beta-1.0.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Jmx5kJiS/versions/lkuCEuyN/hybrid-beta-1.0.4.1.jar"
+hash-format = "sha256"
+hash = "8f01a709df61b3314fe079846cb23ea9aad84dfd8507a6a6459b73a7188a947d"
+
+[update]
+[update.modrinth]
+mod-id = "Jmx5kJiS"
+version = "lkuCEuyN"

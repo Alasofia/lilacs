@@ -5,6 +5,38 @@ The format is based on Keep a Changelog,
 and this project adheres to Semantic Versioning.
 
 
+## [0.2.0-beta] - September 1st 2026
+### Added
+- [Blooming Biosphere](https://modrinth.com/datapack/blooming-biosphere)
+- [Chipped](https://modrinth.com/mod/chipped)
+- [Chipped Express](https://modrinth.com/mod/chipped-express)
+- [Tumbleweeds](https://modrinth.com/mod/tumbleweeds)
+- [Fishing Real](https://modrinth.com/mod/fishing-real)
+- [Caelum](https://modrinth.com/mod/caelum)
+- [Deeper Oceans](https://modrinth.com/datapack/deeper-oceans)
+- [Vintage Beams](https://modrinth.com/mod/vintage-beams)
+- [Roxy](https://modrinth.com/mod/voxy)
+- [Voxy (1.21.11 Fabric)](https://modrinth.com/mod/voxy)
+- [Cascades](https://modrinth.com/datapack/hybrid-beta)
+- [FastEvent](https://modrinth.com/mod/fastevent)
+- [Better Biome Blend](https://modrinth.com/mod/better-biome-blend)
+- [Mobs Always Drop](https://modrinth.com/mod/mobs-always-drop)
+- [NumFlux](https://modrinth.com/mod/numflux)
+- [Streams Reflowing](https://modrinth.com/mod/streams-reflowing)
+
+
+### Changes
+- Removed Tectonic
+- Removed Universal Bushy Leaves
+- Removed CliffTree
+- Removed Drippy Early Loading Module
+- Removed Drippy Loading Screen
+- Removed Music Triggers
+- Changed default Flywheel backend to instancing
+- Updated many many mods
+
+
+
 ## [0.1.1-alpha] - August 5th 2026
 ### Added
 - [Better Than Mending](https://modrinth.com/mod/Lvv4SHrK)

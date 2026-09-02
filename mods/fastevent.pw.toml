@@ -1,0 +1,13 @@
+name = "FastEvent"
+filename = "FastEvent-1.21.1-neoforge-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LauZQ6kM/versions/tOzxJSj2/FastEvent-1.21.1-neoforge-1.1.2.jar"
+hash-format = "sha256"
+hash = "d25059582596c9e2cfb0254b597ee4477389c91c1b3dbb51b4fefe6cb94ffbc9"
+
+[update]
+[update.modrinth]
+mod-id = "LauZQ6kM"
+version = "tOzxJSj2"

@@ -1,0 +1,13 @@
+name = "voxy"
+filename = "voxy-0.2.16-beta+1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fxxUqruK/versions/H3w2nVdU/voxy-0.2.16-beta%2B1.21.11.jar"
+hash-format = "sha256"
+hash = "7f8226cf64a4f5dc064e1075965714b718ac5f42fb28f826135a37c64e66e10b"
+
+[update]
+[update.modrinth]
+mod-id = "fxxUqruK"
+version = "H3w2nVdU"

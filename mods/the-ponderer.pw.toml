@@ -1,13 +1,13 @@
 name = "Ponderer - 思索者"
-filename = "ponderer-1.21.1-neoforge-1.10.6.jar"
+filename = "ponderer-1.21.1-neoforge-1.10.6.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/voXQB5Hr/versions/3h21Iogk/ponderer-1.21.1-neoforge-1.10.6.jar"
+url = "https://cdn.modrinth.com/data/voXQB5Hr/versions/YzFWxoks/ponderer-1.21.1-neoforge-1.10.6.1.jar"
 hash-format = "sha256"
-hash = "37190013cdb0476f0cbe14a6e4c3aa452b54cb906d8bbe6bd6a0df9f50d7ae0e"
+hash = "7f6efc84971a20cb13cd1255e90b7f21479c5d1273c8c414d0cb64c166d38201"
 
 [update]
 [update.modrinth]
 mod-id = "voXQB5Hr"
-version = "3h21Iogk"
+version = "YzFWxoks"
