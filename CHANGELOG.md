@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file.
 The format is based on Keep a Changelog,
 and this project adheres to Semantic Versioning.
 
+## [0.2.2-beta] - September 3rd 2026
+### Added
+- [Creeper Heal](https://modrinth.com/mod/creeper-heal)
+- [ToadLib](https://modrinth.com/mod/toadlib)
+
+### Changes
+- Fixed Voice Chat Interaction sidedness
+- Fixed Chipped Express sidedness
+- Adjusted keybinds
+- Removed ClutterNoMore vertical slabs
+- Removed 3D Skin Layers
+- Updated mods
+- Increased Sparse Structures spread factor
 
 ## [0.2.1-beta] - September 2nd 2026
 ### Added

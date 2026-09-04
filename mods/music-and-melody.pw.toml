@@ -1,13 +1,13 @@
 name = "Music and Melody"
-filename = "music-and-melody-21.1-r4.2-neoforge.jar"
+filename = "music-and-melody-21.1-r4.2.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/dpNZjlVi/versions/KdGLI7bL/music-and-melody-21.1-r4.2-neoforge.jar"
+url = "https://cdn.modrinth.com/data/dpNZjlVi/versions/2jlQ7qqP/music-and-melody-21.1-r4.2.1-neoforge.jar"
 hash-format = "sha256"
-hash = "1b073c3ebaad5f9c471ccdb1f2e4b7a1a5631b151979669c81ef43cd6b3c26ca"
+hash = "9a592dd67d1dab0aecfae2c18c88ab8d490ee6e3932e567de3f9e1a1ad8fdab7"
 
 [update]
 [update.modrinth]
 mod-id = "dpNZjlVi"
-version = "KdGLI7bL"
+version = "2jlQ7qqP"

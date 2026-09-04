@@ -1,0 +1,13 @@
+name = "Monkey Utils"
+filename = "monkeyconfig-0.1.2+1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/uApL7Qhc/versions/LdbqkLBw/monkeyconfig-0.1.2%2B1.21.jar"
+hash-format = "sha256"
+hash = "088d869e4776dfca1d19744c99c2518cd136ff130fdd5330707130920cd992ad"
+
+[update]
+[update.modrinth]
+mod-id = "uApL7Qhc"
+version = "LdbqkLBw"

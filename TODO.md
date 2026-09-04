@@ -7,6 +7,8 @@ change mobs to drop enough to remove farms as a necessity
 
 remove recipes for chipped workstations
 
+field guide
+    hybrid beta / cascades biome localization & icons
 
 descriptions
     beams mod

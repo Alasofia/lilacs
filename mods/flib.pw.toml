@@ -1,0 +1,13 @@
+name = "FLIB"
+filename = "flib-1.21.1-0.2.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FAUSd09K/versions/i46U23pv/flib-1.21.1-0.2.9.jar"
+hash-format = "sha256"
+hash = "d7542a4034314d82c644db4a37551e56873b7e811cbe0eb781c2fb54afe3b2ef"
+
+[update]
+[update.modrinth]
+mod-id = "FAUSd09K"
+version = "i46U23pv"

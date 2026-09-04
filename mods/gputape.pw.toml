@@ -1,13 +1,13 @@
 name = "GPUBooster"
-filename = "GPUTape-1.20.6-1.21x-1.0.3.jar"
+filename = "GPUBooster-1.3.2-1.21.1-neo.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/5CTSrY8X/versions/nlerwS8N/GPUTape-1.20.6-1.21x-1.0.3.jar"
+url = "https://cdn.modrinth.com/data/5CTSrY8X/versions/jJBnRYkf/GPUBooster-1.3.2-1.21.1-neo.jar"
 hash-format = "sha256"
-hash = "120f5971e1998337b81205934b55e29c70f4891c6254df616e4391ed94a511cf"
+hash = "56f5eda7cc8c6121d45616e38454ca7a71faa66c5b28c1cb8e6c211f9cad989d"
 
 [update]
 [update.modrinth]
 mod-id = "5CTSrY8X"
-version = "nlerwS8N"
+version = "jJBnRYkf"

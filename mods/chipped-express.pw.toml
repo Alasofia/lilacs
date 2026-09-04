@@ -1,6 +1,6 @@
 name = "Chipped Express"
 filename = "ChippedExpress-universal-21x.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/dQIcJONI/versions/NPqP9QZO/ChippedExpress-universal-21x.jar"

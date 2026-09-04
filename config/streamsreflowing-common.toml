@@ -63,7 +63,7 @@ welcomeMessage = false
 	#Perf: THE MAIN SPEED DIAL (see the per-level timings above). One-time per region.
 	#World: CHANGES THE STREAM NETWORK. Takes effect only after the world is RELOADED (quit to title and reopen, or restart the server), and only in NEW chunks -- streams will not line up where new land meets old. Best chosen before starting a world.
 	#Allowed Values: POTATO, LOW, MEDIUM, HIGH, EXTREME, MAX
-	terrainAccuracyLevel = "MEDIUM"
+	terrainAccuracyLevel = "HIGH"
 	#
 	#(Legacy) The former name of the setting above. Kept only so an existing config is not
 	#silently reset when the option was renamed: if this is set to anything other than MEDIUM

@@ -1,13 +1,13 @@
 name = "Reliable Advancements"
-filename = "reliable_advancements-neoforge-1.21.1-5.0.1.jar"
+filename = "reliable_advancements-neoforge-1.21.1-6.2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xVwaUG1g/versions/mWq4hgy7/reliable_advancements-neoforge-1.21.1-5.0.1.jar"
+url = "https://cdn.modrinth.com/data/xVwaUG1g/versions/icHpbwBh/reliable_advancements-neoforge-1.21.1-6.2.2.jar"
 hash-format = "sha256"
-hash = "d738154547f7838995067a5e81ceb1b8a84743c7209d4256ac8f282e38dac6fa"
+hash = "68fe8c8da5a56efbedf77742103b7ba32e096073423feb8c3a651e327adab0c3"
 
 [update]
 [update.modrinth]
 mod-id = "xVwaUG1g"
-version = "mWq4hgy7"
+version = "icHpbwBh"
