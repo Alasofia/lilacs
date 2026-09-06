@@ -1,0 +1,13 @@
+name = "Tax Free Levels"
+filename = "TaxFreeLevels-1.4.25-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jCBrrLTs/versions/b81Q74XX/TaxFreeLevels-1.4.25-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "cfa7290c9b5d8d87f51a3ea92ea43286bffb6c8339bb68e29b5f5e08195becfa"
+
+[update]
+[update.modrinth]
+mod-id = "jCBrrLTs"
+version = "b81Q74XX"

@@ -1,12 +1,12 @@
 name = "lilacs"
 author = "alas"
-version = "0.2.2"
+version = "0.2.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "73ad6f9c1cc7efaec0aa5195e53d04da7c8fd14db929c2e53352e83e95e772fa"
+hash = "bd8094b4caf66c576e1cb4f71c3ce5c396ea1d132861455e2d4013e16b4627f0"
 
 [versions]
 minecraft = "1.21.1"

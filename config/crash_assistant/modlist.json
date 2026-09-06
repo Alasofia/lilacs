@@ -1164,14 +1164,6 @@
     "curseForgeHash": 3166916631,
     "modrinthHash": "f859d68818e522fb00056d3ed1603ca4300eb681"
   },
-  "pathspeed-neoforge-1.4.0-1.21.1.jar": {
-    "jarName": "pathspeed-neoforge-1.4.0-1.21.1.jar",
-    "modId": "pathspeed",
-    "name": "PathSpeed",
-    "version": "1.4.0",
-    "curseForgeHash": 3563521547,
-    "modrinthHash": "634fb487348a66cc7139f6031629dba02f2bb3cd"
-  },
   "Paxi-1.21.1-NeoForge-5.1.3.jar": {
     "jarName": "Paxi-1.21.1-NeoForge-5.1.3.jar",
     "modId": "paxi",
@@ -1595,6 +1587,14 @@
     "version": "1.0.12",
     "curseForgeHash": 2583576967,
     "modrinthHash": "8362c45471e934ecc714e66f746c757d81d49bea"
+  },
+  "TaxFreeLevels-1.4.25-neoforge-1.21.1.jar": {
+    "jarName": "TaxFreeLevels-1.4.25-neoforge-1.21.1.jar",
+    "modId": "taxfreelevels",
+    "name": "Tax Free Levels",
+    "version": "1.4.25",
+    "curseForgeHash": 2470215984,
+    "modrinthHash": "cad7df48510d9622867131342930437c0f99af64"
   },
   "teallib-1.3.teal.jar": {
     "jarName": "teallib-1.3.teal.jar",

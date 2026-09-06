@@ -1,6 +1,6 @@
 name = "Responsive Shields"
 filename = "responsiveshields-2.4-neoforge-mc1.21.x.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/MBmh0f9A/versions/mNqXF51P/responsiveshields-2.4-neoforge-mc1.21.x.jar"

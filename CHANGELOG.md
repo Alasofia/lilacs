@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file.
 The format is based on Keep a Changelog,
 and this project adheres to Semantic Versioning.
 
+
+## [0.2.3-beta] - September 5th 2026
+### Added
+- [Tax Free Levels](https://modrinth.com/mod/tax-free-levels)
+
+### Changes
+- Fixed Creeper Heal Port sidedness
+- Removed Creeper Healing (why was that there)
+- Fixed Responsive Shields sidedness (for real this time)
+- Removed PathSpeed
+- Disabled Supplementaries key, safe, altimeter, netherite door & trapdoor
+
+
 ## [0.2.2-beta] - September 3rd 2026
 ### Added
 - [Creeper Heal](https://modrinth.com/mod/creeper-heal)
