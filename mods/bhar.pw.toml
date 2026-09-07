@@ -1,0 +1,13 @@
+name = "Balanced Horse Armor Recipes"
+filename = "bhar-3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JyV5MTiA/versions/LDueIIRM/bhar-3.0.jar"
+hash-format = "sha512"
+hash = "b3a496c672a36c4b289e8b9f8af8fc342f457062ecae71b9a69483d0b6384fa6c238728fe62dd09beaa75c0ba90f9926b915cef167a8fffb95288048ece67378"
+
+[update]
+[update.modrinth]
+mod-id = "JyV5MTiA"
+version = "LDueIIRM"

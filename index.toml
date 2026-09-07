@@ -311,6 +311,11 @@ hash = "c75c323f691bb6004b699c536a314f9ef4827a43762d6b56284bebe0e7ca2f98"
 metafile = true
 
 [[files]]
+file = "mods/bhar.pw.toml"
+hash = "2970da0dda964b2f74ab079cfd23a7aecdec3c6a5166af7074000b95a5906536"
+metafile = true
+
+[[files]]
 file = "mods/blooming-biosphere.pw.toml"
 hash = "2228e47f36dca8fa992347ddf529b2fd30f405549a34b854713b28939de44628"
 metafile = true
