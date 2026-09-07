@@ -1,0 +1,13 @@
+name = "TLib"
+filename = "tlib-neoforge-1.5.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sBn7rVvc/versions/hRjgkoz4/tlib-neoforge-1.5.0-1.21.1.jar"
+hash-format = "sha256"
+hash = "e8362f364c262ce1405c568c968fc3a0a69042d5223deecfbbb0595a0514f035"
+
+[update]
+[update.modrinth]
+mod-id = "sBn7rVvc"
+version = "hRjgkoz4"

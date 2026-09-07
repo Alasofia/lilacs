@@ -1,0 +1,13 @@
+name = "Shadow Drop"
+filename = "shadowdrop-neoforge-1.21.1-2.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/COZRUliI/versions/HbZk695q/shadowdrop-neoforge-1.21.1-2.0.2.jar"
+hash-format = "sha512"
+hash = "ec155d767a1b2e318b02a7ee20f4e5e0ceaff49746fceddccc1539f4ef188c934931bed2788a1cd4200e6ce593f421e50b57ac058e3dd0841e367d2efb9274c0"
+
+[update]
+[update.modrinth]
+mod-id = "COZRUliI"
+version = "HbZk695q"

@@ -4,6 +4,26 @@ All notable changes to this project will be documented in this file.
 The format is based on Keep a Changelog,
 and this project adheres to Semantic Versioning.
 
+## Unreleased (for 0.3.0)
+### Added
+- [PathSpeed!](https://modrinth.com/mod/pathspeed!) (readded)
+- [Arrow In The Knee](https://modrinth.com/mod/aitk)
+- [Tom's Simple Storage](https://modrinth.com/mod/toms-storage)
+- [Re-Imagine-Tom-Simple-Storage](https://modrinth.com/resourcepack/re-imagine-tom-simple-storage)
+- [Reliable Recipes](https://modrinth.com/mod/reliable-recipes)
+- [Reliable Remover](https://modrinth.com/mod/reliable-remover)
+- [Effectual](https://modrinth.com/mod/effectual)
+- [Free the End](https://modrinth.com/mod/free-the-end)
+- [Shadow Drop](https://modrinth.com/mod/shadow-drop)
+- [KubeJS](https://modrinth.com/mod/kubejs)
+- [Better Advanced Tooltips](https://modrinth.com/mod/better-advanced-tooltips)
+
+### Changes
+- Removed Immersive Overlays
+- Fixed ToadLib sidedness 
+- Removed YUNG's Bridges
+- Fixed Azalea Trees in Dark Oak Forests (blu)
+- Removed Entity Pin Cushions
 
 ## [0.2.3-beta] - September 5th 2026
 ### Added
