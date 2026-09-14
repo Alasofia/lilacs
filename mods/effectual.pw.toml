@@ -1,0 +1,13 @@
+name = "Effectual"
+filename = "effectual-neoforge-1.4.1-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OoF97Pto/versions/DDImNMLy/effectual-neoforge-1.4.1-1.21.1.jar"
+hash-format = "sha256"
+hash = "05e3d4b413af58658f08ab1b87611db7239c02edc596038e3d06efc37a0876dd"
+
+[update]
+[update.modrinth]
+mod-id = "OoF97Pto"
+version = "DDImNMLy"

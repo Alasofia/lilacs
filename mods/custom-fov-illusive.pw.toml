@@ -1,0 +1,13 @@
+name = "Custom FOV"
+filename = "customfov-neoforge-9.0.0+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uZAcFHLd/versions/Gb8xAphh/customfov-neoforge-9.0.0%2B1.21.jar"
+hash-format = "sha256"
+hash = "ffb0d964ab23df88dda60bf6bed2089520cd65d22878af7b20f99ee6bc16cda2"
+
+[update]
+[update.modrinth]
+mod-id = "uZAcFHLd"
+version = "Gb8xAphh"

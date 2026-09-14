@@ -1,13 +1,13 @@
 name = "Chalk"
-filename = "chalk-neoforge-1.21.1-2.0.0.jar"
+filename = "chalk-neoforge-1.21.1-2.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YWGP4Y1d/versions/6wIT2tDt/chalk-neoforge-1.21.1-2.0.0.jar"
+url = "https://cdn.modrinth.com/data/YWGP4Y1d/versions/c9La5ZxO/chalk-neoforge-1.21.1-2.0.2.jar"
 hash-format = "sha256"
-hash = "05a958332e7df35d2b42b889b194ceabe697b313bfacdf8acc53dee5ade6c021"
+hash = "8a2772c5df0947ae96a543cd492a0308c53814d0522a9dd213e52d73ca2e1a66"
 
 [update]
 [update.modrinth]
 mod-id = "YWGP4Y1d"
-version = "6wIT2tDt"
+version = "c9La5ZxO"

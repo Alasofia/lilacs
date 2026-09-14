@@ -1,0 +1,6 @@
+{
+  "replace": true,
+  "icon": "map_atlases:gui/slots/atlas_slot",
+  "amount": 0,
+  "order": -256
+}

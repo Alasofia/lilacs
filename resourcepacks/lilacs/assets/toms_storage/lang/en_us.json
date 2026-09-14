@@ -1,0 +1,7 @@
+{
+"block.toms_storage.trim.description": "Connects inventories with the Inventory Connector.",
+"block.toms_storage.inventory_connector.description": "Connects all of the touching inventories into one. Use the Storage Terminal to access all of your items. Trims can connect the gaps.",
+"block.toms_storage.crafting_terminal.description": "Gives access to your items. Place it on an inventory. Has a builtin crafting table.",
+"block.toms_storage.storage_terminal.description": "Gives access to your items. Place it on an inventory."
+}
+

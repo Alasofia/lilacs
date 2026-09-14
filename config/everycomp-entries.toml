@@ -1,0 +1,44 @@
+		[types.wood_type.cinderscapes]
+			scorched = true
+			umbral = true
+
+		[types.wood_type.minecraft]
+			pale_oak = true
+
+		[types.wood_type.quark]
+			azalea = true
+			ancient = false
+			blossom = true
+
+		[types.leaves_type.minecraft]
+			pale_oak = true
+
+		[types.leaves_type.quark]
+			ancient = true
+			blue_blossom = true
+			lavender_blossom = true
+			orange_blossom = true
+			yellow_blossom = true
+			red_blossom = true
+
+		[entries.wood_type.beams]
+			beam = true
+
+		[entries.wood_type.boatload]
+			large_boat = true
+			furnace_boat = true
+
+		[entries.wood_type.quark]
+			vertical_planks = true
+			ladder = true
+			post = true
+			trapped_chest = true
+			vertical_slab = false
+			chest = true
+			hollow_log = true
+			bookshelf = true
+			stripped_post = true
+
+		[entries.leaves_type.quark]
+			hedge = true
+			leaf_carpet = true
