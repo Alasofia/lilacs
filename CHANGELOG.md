@@ -6,7 +6,6 @@ and this project adheres to Semantic Versioning.
 
 ## Unreleased (for 0.3.0)
 ### Added
-- [PathSpeed!](https://modrinth.com/mod/pathspeed!) (readded)
 - [Arrow In The Knee](https://modrinth.com/mod/aitk)
 - [Tom's Simple Storage](https://modrinth.com/mod/toms-storage)
 - [Re-Imagine-Tom-Simple-Storage](https://modrinth.com/resourcepack/re-imagine-tom-simple-storage)
@@ -17,13 +16,32 @@ and this project adheres to Semantic Versioning.
 - [Shadow Drop](https://modrinth.com/mod/shadow-drop)
 - [KubeJS](https://modrinth.com/mod/kubejs)
 - [Better Advanced Tooltips](https://modrinth.com/mod/better-advanced-tooltips)
+- [Fluid Void Fading](https://modrinth.com/mod/fluidvoidfading)
+- [Balanced Horse Armor Recipes](https://modrinth.com/datapack/bhar)
+- [AsyncParticles](https://modrinth.com/mod/asyncparticles)
+- [PonderJS](https://modrinth.com/mod/ponder)
+- [NoWeatherSkip](https://modrinth.com/mod/noweatherskip)
+- [Atmospheric Rain Backport](https://modrinth.com/mod/atmospheric-rain-backport)
+
 
 ### Changes
 - Removed Immersive Overlays
-- Fixed ToadLib sidedness 
+- Removed Sawmill
+- Removed Simple Modpack Update Checker
+- Removed Pretty Rain
+- Removed Ponderer - 思索者
+- Removed Chipped & Chipped Express
+- Removed Easy Shulker Boxes
+- Disabled tooltips from Tom's Simple Storage
+- Disable Ashen Wood from Quark (Pale Oak exists)
+- Disable Every Compat tooltips
+- Fixed ToadLib sidedness
 - Removed YUNG's Bridges
 - Fixed Azalea Trees in Dark Oak Forests (blu)
 - Removed Entity Pin Cushions
+- Add KubeJS Glass Armor (for Cosmetic Armor) (blu)
+- Add Item Descriptions for Tom's Simple Storage
+- Disable Tom's Simple Storage tooltips
 
 ## [0.2.3-beta] - September 5th 2026
 ### Added

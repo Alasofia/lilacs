@@ -70,6 +70,11 @@
   "jadeaddons.lootr": {
     "info": false
   },
+  "toms_storage": {
+    "inventory_hopper": false,
+    "inventory_config": false,
+    "inventory_connector": false
+  },
   "quark": {
     "oretoise_eating_cooldown": false
   },

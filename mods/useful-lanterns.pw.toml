@@ -1,13 +1,13 @@
 name = "Useful Lanterns"
-filename = "usefullanterns-1.0.5-1.21.jar"
+filename = "usefullanterns-1.0.6-1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6WmkI00Y/versions/agwLfxEs/usefullanterns-1.0.5-1.21.jar"
+url = "https://cdn.modrinth.com/data/6WmkI00Y/versions/1ahS8A0D/usefullanterns-1.0.6-1.21.jar"
 hash-format = "sha256"
-hash = "a60eda28226a59cdc21eaaa2bc273e4a64c31938db0b52b21ddb0c8fabb97919"
+hash = "9862ad98e061152f65f7a24dd3f0887b648e35bc3165d84fd6cbf2ad1a9e2a04"
 
 [update]
 [update.modrinth]
 mod-id = "6WmkI00Y"
-version = "agwLfxEs"
+version = "1ahS8A0D"

@@ -1,0 +1,13 @@
+name = "Atmospheric Rain Backport"
+filename = "atmosphericrain-1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GmgjnBgr/versions/WjvD62d6/atmosphericrain-1.2.jar"
+hash-format = "sha256"
+hash = "c227ef0cde81cd3d2a09841c580d7c30b0f5b2a07d31bf8373b19805f4e4367d"
+
+[update]
+[update.modrinth]
+mod-id = "GmgjnBgr"
+version = "WjvD62d6"

@@ -1,13 +1,13 @@
 name = "Cool Rain Reforged"
-filename = "coolrain-1.21.1-NeoForge-1.0.1.jar"
+filename = "coolrain-1.21.1-NeoForge-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IgftU6Mn/versions/8UlyMRh2/coolrain-1.21.1-NeoForge-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/IgftU6Mn/versions/SwSSfJQQ/coolrain-1.21.1-NeoForge-1.0.2.jar"
 hash-format = "sha256"
-hash = "16601370ae4ff30af749b69d6da2f11079a4c187aba1775568a13f8c03932d3a"
+hash = "8c2c6070b41509b68a5b32fe0881a9d21393bd737d58aa6b45c7d96e2ae66fec"
 
 [update]
 [update.modrinth]
 mod-id = "IgftU6Mn"
-version = "8UlyMRh2"
+version = "SwSSfJQQ"
