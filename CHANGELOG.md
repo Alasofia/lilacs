@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 The format is based on Keep a Changelog,
 and this project adheres to Semantic Versioning.
 
-## Unreleased (for 0.3.0)
+## [0.3.0-beta] - September 14th 2026
 ### Added
 - [Arrow In The Knee](https://modrinth.com/mod/aitk)
 - [Tom's Simple Storage](https://modrinth.com/mod/toms-storage)

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "031a8de17493055b57081bcf61125950ab29edb1752a3d308a751876bb5cbebd"
+hash = "26a3f5c88107b4a3fd128077fd050856dc5eca109ee24d6354f2172181a2d3e1"
 
 [[files]]
 file = "LICENSE"
@@ -22,7 +22,7 @@ hash = "4e5cea9af004650e0d31a6b3abf9672e1a3c5870c934bb98f6f8cd4de567d11e"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "48823a35263a9e5aa2c640577ecd00782824a46bdc248f078b6426ab0c95290d"
+hash = "9e64bbf7346cb38fc549a551bb7a9774f6a4209ce6dc8a8069df98d8cd089a48"
 
 [[files]]
 file = "config/betterworldloadingnf21.json"
@@ -42,7 +42,7 @@ hash = "cff53ebbc3eb9f63ab214a3bf654d3bf26f382b1a75200fade7cac54cb13e0db"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "082dae1a1a21e7dc7efacf1ea3f5eceb88d623d100179c0098cc4c4f1cb1e0af"
+hash = "a1b16cf6fc9d2fd2f6443b385c82a14b1b12316e99c9361175162a172dfc7dad"
 
 [[files]]
 file = "config/emi.css"
@@ -118,11 +118,11 @@ hash = "a06a9530ecfa0fb670fa58ed67b611505c21a2ca5a65ee96779c69c26fcc55b2"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
-hash = "9e312f947770a32e8cc5cecb2d96737fa4e53a4f12df94160991df6bc9afb333"
+hash = "926907a13e7493a5b8ba7d6e1d429820bc3fdbfaf318d5202bc415cd9aa84c9f"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "f641eeef676c68ab814c022d763f9989c997e38b24bfeabbd0c10a03c77cee68"
+hash = "03d3dae669ff6289208fca08cd8eb4440979373891d62455cbf5c618ca470f97"
 
 [[files]]
 file = "config/presencefootsteps/userconfig.json"
