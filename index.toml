@@ -122,7 +122,7 @@ hash = "926907a13e7493a5b8ba7d6e1d429820bc3fdbfaf318d5202bc415cd9aa84c9f"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "03d3dae669ff6289208fca08cd8eb4440979373891d62455cbf5c618ca470f97"
+hash = "e7a5c59269bbaaca136c9b29a10ab4e5916cfce9ec2af1a7c9d2bcc09fd4b9fa"
 
 [[files]]
 file = "config/presencefootsteps/userconfig.json"
