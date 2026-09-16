@@ -4,6 +4,20 @@ All notable changes to this project will be documented in this file.
 The format is based on Keep a Changelog,
 and this project adheres to Semantic Versioning.
 
+
+
+## [0.3.1-beta] - September 15th 2026
+### Added
+- [SleepWarp (Updated)](https://modrinth.com/mod/sleep-warp-updated)
+- [Chunky](https://modrinth.com/plugin/chunky)
+- [Voxy Server Side](https://modrinth.com/plugin/voxy-server-side/)
+
+### Changes
+- Updated Caelum
+- Disabled Caelum Eclipses
+- Removed BetterDays
+- Removed SleepVote
+
 ## [0.3.0-beta] - September 14th 2026
 ### Added
 - [Arrow In The Knee](https://modrinth.com/mod/aitk)

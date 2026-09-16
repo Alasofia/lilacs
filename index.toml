@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "26a3f5c88107b4a3fd128077fd050856dc5eca109ee24d6354f2172181a2d3e1"
+hash = "5298a9937b4406402b4d63910a592a96b3ec65a3ccbf7225081e2899cceeca95"
 
 [[files]]
 file = "LICENSE"
@@ -22,11 +22,15 @@ hash = "4e5cea9af004650e0d31a6b3abf9672e1a3c5870c934bb98f6f8cd4de567d11e"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "9e64bbf7346cb38fc549a551bb7a9774f6a4209ce6dc8a8069df98d8cd089a48"
+hash = "02f26a692088b008851e1d7195d8bf88f4f3e2c7960fc207591966b399c4a6cb"
 
 [[files]]
 file = "config/betterworldloadingnf21.json"
 hash = "16ba5cbf5173807b7f94bf63ff98178a5c01788f5f634241444de8e1f999ab84"
+
+[[files]]
+file = "config/caelum_client--server_fallback.toml"
+hash = "32329af3bee7fe6715e926856e7ca9757fb5c2be4807754b358cf16d871a2f0f"
 
 [[files]]
 file = "config/citresewn.json"
@@ -42,7 +46,7 @@ hash = "cff53ebbc3eb9f63ab214a3bf654d3bf26f382b1a75200fade7cac54cb13e0db"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "a1b16cf6fc9d2fd2f6443b385c82a14b1b12316e99c9361175162a172dfc7dad"
+hash = "b173de72e4d7d7bbc18501d6fb55b932ad0eaf1745a9297013902b46c314ccfe"
 
 [[files]]
 file = "config/emi.css"
@@ -386,11 +390,6 @@ hash = "a9597bc6cf0a09946440f85a6fe821cc4ce8992c6bf6759d33874de8b1ad5730"
 metafile = true
 
 [[files]]
-file = "mods/bedcheck.pw.toml"
-hash = "35bd844bf6219d56c843d53bb1280babc23029afbe2f7c88564741e39cf7e124"
-metafile = true
-
-[[files]]
 file = "mods/better-advanced-tooltips.pw.toml"
 hash = "032c0fdf060bc62e1fd72dd4bfaa1b285e316fbc6dc69eb7e04b29f40dc7464c"
 metafile = true
@@ -462,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/caelum.pw.toml"
-hash = "bc56297f27a90b2465a22a788ce9c2f6c3abd015b59364328cdfd8491e28b1e2"
+hash = "a942af9452803f38cd2dd0d00a1ce9307f5f07f140b8470690eaf6d2f1e61567"
 metafile = true
 
 [[files]]
@@ -492,6 +491,11 @@ metafile = true
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "dc55c46572f3087b136010feb144165b4ccbe660f1149adafe55837f99b7b663"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "fd923f77a85d87a52e78076d8a6ebe1ae5eeee5af132b960f52b47715c414ed9"
 metafile = true
 
 [[files]]
@@ -1105,7 +1109,7 @@ metafile = true
 
 [[files]]
 file = "mods/ponder.pw.toml"
-hash = "77b36d208e8b53109af6dfb71cdd62ba13ceda9fe09985e3206f8a8ef6b43846"
+hash = "ac9b9eacee68503e3ebe04d41f6e589d0ac24d5b05007a1953a3d17503abf1d5"
 metafile = true
 
 [[files]]
@@ -1421,6 +1425,11 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "524726a3fd28d1666b8c6a7588e0cef12a4deddf0ac7466cc04b1b5b2a4cf160"
+metafile = true
+
+[[files]]
+file = "mods/voxy-server-side.pw.toml"
+hash = "c09a437e936a5a638c2bb69e11c92d8ef060c7ec5ec3bf427e51adbf82ad7e9d"
 metafile = true
 
 [[files]]

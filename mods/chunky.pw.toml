@@ -1,0 +1,13 @@
+name = "Chunky"
+filename = "Chunky-NeoForge-1.4.23.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fALzjamp/versions/LuFhm4eU/Chunky-NeoForge-1.4.23.jar"
+hash-format = "sha256"
+hash = "d72f235cf1f56f2c374f52c00bdda5034524b28142305a84cfc123a3f92ad274"
+
+[update]
+[update.modrinth]
+mod-id = "fALzjamp"
+version = "LuFhm4eU"

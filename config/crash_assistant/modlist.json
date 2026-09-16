@@ -261,13 +261,13 @@
     "curseForgeHash": 122271087,
     "modrinthHash": "f06c116c1b447a2cdb3162d6c9ec54c9a422b48d"
   },
-  "caelum-3.0.0.4+1.21.1.jar": {
-    "jarName": "caelum-3.0.0.4+1.21.1.jar",
+  "caelum-3.0.0.5+1.21.1.jar": {
+    "jarName": "caelum-3.0.0.5+1.21.1.jar",
     "modId": "caelum",
     "name": "Caelum",
-    "version": "3.0.0.4",
-    "curseForgeHash": 3123274078,
-    "modrinthHash": "6db610964de6eeffdd630765b754eae213a3158d"
+    "version": "3.0.0.5",
+    "curseForgeHash": 1091838407,
+    "modrinthHash": "f2b619152f8927687065ddd9205c3bc7ad9b0a7a"
   },
   "catalogue-neoforge-1.21.1-1.11.2.jar": {
     "jarName": "catalogue-neoforge-1.21.1-1.11.2.jar",
@@ -316,6 +316,14 @@
     "version": "10.1.1+1.21.1",
     "curseForgeHash": 4116184642,
     "modrinthHash": "aefc8c79ba62606a71f509a9b3c881f3fc4cad5c"
+  },
+  "Chunky-NeoForge-1.4.23.jar": {
+    "jarName": "Chunky-NeoForge-1.4.23.jar",
+    "modId": "chunky",
+    "name": "Chunky",
+    "version": "1.4.23",
+    "curseForgeHash": 233801764,
+    "modrinthHash": "ab0c74743a653020fe2dfc4986b43e893947f3e9"
   },
   "cinderscapes-5.0.4.jar": {
     "jarName": "cinderscapes-5.0.4.jar",
@@ -1500,14 +1508,6 @@
     "curseForgeHash": 3842115755,
     "modrinthHash": "9d23cc808c007e8396e53216d33c06435becc1ea"
   },
-  "sleepvote-neoforge-1.0.0.jar": {
-    "jarName": "sleepvote-neoforge-1.0.0.jar",
-    "modId": "sleepvote",
-    "name": "SleepVote",
-    "version": "1.0.0",
-    "curseForgeHash": 3634200865,
-    "modrinthHash": "689d9dc22ff78b66009cc78c4f9223f72f28bdd4"
-  },
   "smoothgui-neoforge-2.0.5+mc1.21.jar": {
     "jarName": "smoothgui-neoforge-2.0.5+mc1.21.jar",
     "modId": "smoothgui",
@@ -1779,6 +1779,14 @@
     "version": "0.2.16-beta",
     "curseForgeHash": 3111436545,
     "modrinthHash": "280a55279e0860d29146d908cd8a0246a12e2537"
+  },
+  "voxy-server-side-neoforge.jar": {
+    "jarName": "voxy-server-side-neoforge.jar",
+    "modId": "lss",
+    "name": "Voxy Server Side",
+    "version": "0.14.0",
+    "curseForgeHash": 3275533033,
+    "modrinthHash": "ab9738f39df913e1d533f1ba32d9452d8311a216"
   },
   "watut-neoforge-1.21.0-1.2.7.jar": {
     "jarName": "watut-neoforge-1.21.0-1.2.7.jar",
