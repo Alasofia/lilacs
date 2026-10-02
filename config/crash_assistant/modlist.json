@@ -767,14 +767,6 @@
     "curseForgeHash": 564082836,
     "modrinthHash": "e5facb54dccd46c75c938a599f2f9da1ef39f19e"
   },
-  "golemsarefriends-1.21.1-1.0.1.jar": {
-    "jarName": "golemsarefriends-1.21.1-1.0.1.jar",
-    "modId": "golemsarefriends",
-    "name": "Golems Are Friends Not Fodder",
-    "version": "1.21.1-1.0.1",
-    "curseForgeHash": 2165595846,
-    "modrinthHash": "945cf668d4c2a45625b78d3a887c0d52505d811c"
-  },
   "GPUBooster-1.3.2-1.21.1-neo.jar": {
     "jarName": "GPUBooster-1.3.2-1.21.1-neo.jar",
     "modId": "gpu_booster",
@@ -798,6 +790,14 @@
     "version": "2.4.12",
     "curseForgeHash": 2748989627,
     "modrinthHash": "a817f2263e93aad5bdbe65eeafd2f27489b47ccf"
+  },
+  "helpfularmorers-1.21.1-1.2.0.jar": {
+    "jarName": "helpfularmorers-1.21.1-1.2.0.jar",
+    "modId": "helpfularmorers",
+    "name": "Helpful Armorers",
+    "version": "1.2.0",
+    "curseForgeHash": 3924656986,
+    "modrinthHash": "68fcf35d575c253a97bc3a3932064cadf595ebfa"
   },
   "Highlighter-1.21-neoforge-1.1.11.jar": {
     "jarName": "Highlighter-1.21-neoforge-1.1.11.jar",

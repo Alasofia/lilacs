@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/7JigjHVx/versions/u79EtzYQ/unified_wind-0.3.1.jar"
-hash-format = "sha512"
-hash = "6b068e4c6fc953618473259c1f456ef85b0e913ab6df1f45895c00e1ec46783ea7000594a8308137b42f2da56d279688ab57cd5ba7c7a44a4b9b829ffc9f27c5"
+hash-format = "sha256"
+hash = "d216cc22af4aa1d37fbae30bb1e000378f1670324e73650b3e194634c5632649"
 
 [update]
 [update.modrinth]

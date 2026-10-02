@@ -1,0 +1,13 @@
+name = "Helpful Armorers"
+filename = "helpfularmorers-1.21.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LfvbzzA6/versions/ok86c8lS/helpfularmorers-1.21.1-1.2.0.jar"
+hash-format = "sha256"
+hash = "2022136fb60730cf7ecaf21219c70d39f2236e3f26c6f88b6c44cde9bea303e9"
+
+[update]
+[update.modrinth]
+mod-id = "LfvbzzA6"
+version = "ok86c8lS"

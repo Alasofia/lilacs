@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/OVb8ZE5p/versions/Uf9jCC3m/BoatBreakFix-Universal-1.0.2.jar"
-hash-format = "sha512"
-hash = "7dedce72e959a05db469ff7e6175d7bc7189ed012ecb4bbbf299f0ee2b1876c67753731e05928ba8743b294cf5b208da01056d65ca51c27ad14b2313addcea92"
+hash-format = "sha256"
+hash = "c3085a8ab45025ff581dbdeba334514611b68d41995cb8685264a595029de969"
 
 [update]
 [update.modrinth]
