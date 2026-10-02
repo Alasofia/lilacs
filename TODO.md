@@ -48,7 +48,7 @@ todo
     - add recipes for amendments cauldrons and custom potions
     - remove lingering potions
     - replace lingering potions with splash potions in crafting
-    
+- Helpful Armorers also works on Clay Golems
 
 ### Misc
 - Cinderscapes & HT Tree Chop fix

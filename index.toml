@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "784f008900f93aea9ab16d5caa4562ed3bf56a84fe1a3f9abe9432ff1001328c"
+hash = "53d160011b3c2d92956a488af68ae894c4de35184c426618b1c71cecbccf41cb"
 
 [[files]]
 file = "LICENSE"
@@ -14,7 +14,7 @@ hash = "8052b22db8819550e6534ff5304d3ec649878d23da7319f822f50845593798db"
 
 [[files]]
 file = "TODO.md"
-hash = "e39b10e7a991be97332d7c7ae57652f0b0fd42f4593942d04c5e316263d7383e"
+hash = "a81a5949c4b08d1a396628e1a8d0ecdf508a7db9a9fc57fe72336bb4de2c6723"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
@@ -22,7 +22,7 @@ hash = "4e5cea9af004650e0d31a6b3abf9672e1a3c5870c934bb98f6f8cd4de567d11e"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "4a854f126ebc4cbf8648476dbceef7171c48b76dd5a140c67c61f7e5492d5fce"
+hash = "f59378dd622760460726a72222d6ff2028b96e45efed513d2e95e201efb121ab"
 
 [[files]]
 file = "config/betterworldloadingnf21.json"
@@ -46,7 +46,7 @@ hash = "cff53ebbc3eb9f63ab214a3bf654d3bf26f382b1a75200fade7cac54cb13e0db"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "0394f7ea1c0a5a01bea4e81b432c926a5178a0773c2770e435b62de04070aece"
+hash = "eaffdb859e55d796fe4922924659d9bd5b8a438771da8b3fd903e79c33a9f883"
 
 [[files]]
 file = "config/emi.css"
@@ -430,7 +430,7 @@ metafile = true
 
 [[files]]
 file = "mods/boat-break-fix.pw.toml"
-hash = "65514f20151bbfcbb01aa50c5ed81f10cbbce1f72ad512157de3352e1f86de34"
+hash = "ec2c231b4b7e20ffbcd999255b09e52e3fea5a76e04d7420e9292c1a0d0bfcc6"
 metafile = true
 
 [[files]]
@@ -783,10 +783,6 @@ hash = "ff7701913c636ccc11b7e8735da2f249da3def350a5227a8243baf6a1ad22fdc"
 metafile = true
 
 [[files]]
-file = "mods/golemsarefriends-1.21.1-1.0.1.jar"
-hash = "d70a6f0a2b2ee78907157d25ec725d77253b613e534bc4048249ad7658b4a506"
-
-[[files]]
 file = "mods/gputape.pw.toml"
 hash = "187df25d14bc660c3a6255e9df6f31327fd5330f70528cfdc8a9cf673ffb375d"
 metafile = true
@@ -794,6 +790,11 @@ metafile = true
 [[files]]
 file = "mods/guard-villagers.pw.toml"
 hash = "1a93b496f9b8fc80e9022cb556ab67601a19a11c67112be47b7af1f8b598d19c"
+metafile = true
+
+[[files]]
+file = "mods/helpful-armorers.pw.toml"
+hash = "1bb5f61aaa4357e2d6a04f4e8ee2af33da12d8f7eea08ae3c8c884fb98ee11c0"
 metafile = true
 
 [[files]]
@@ -893,7 +894,7 @@ metafile = true
 
 [[files]]
 file = "mods/lamb-lanterns.pw.toml"
-hash = "5633c9f1d347b6b90c7ece3b31a8783cf58e9e3b7df3cf6835286d6fc440aadf"
+hash = "e01938ae46dc6bebb66ee03d748d806a16f8aa4a624db89c8599150495850f40"
 metafile = true
 
 [[files]]
@@ -951,7 +952,7 @@ hash = "a029cde59469e8d71f0accd728c82aae7adadd4cc83039d6fcc258c5c6cbaf4f"
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "73aba17132f267dd76ff682aa84abfb7c09d25a93b9220ee261a1e25337bebc7"
+hash = "99192ea734a429ab7647edc4dd53b1ae3cf2d7c52e42333d518fe4afb5f55dfc"
 metafile = true
 
 [[files]]
@@ -1016,7 +1017,7 @@ metafile = true
 
 [[files]]
 file = "mods/necronomicon.pw.toml"
-hash = "f4e01222594116f7ebe3bd3908ae066550172eafb9a1ef383b277be569c38e45"
+hash = "fe994e8018a0da6f9d9961f7226b59a9164d5d4fc4442dd365eb40f8edde1052"
 metafile = true
 
 [[files]]
@@ -1081,7 +1082,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "a5002024b70bba96cdcfdec654d7b224f5386da01b992e8c71225effe7cd8351"
+hash = "5b1c1762bb06c458161526a9ab12ef033cf51ff992b8ac0e2ba6cd4d9cf97245"
 metafile = true
 
 [[files]]
@@ -1206,7 +1207,7 @@ metafile = true
 
 [[files]]
 file = "mods/respawning-animals.pw.toml"
-hash = "68294507359c310e2d25b4bccf160c173264c2301439be978242994c9fcb6cdc"
+hash = "0aa46b74a8ca329bfec5fec71bef61f260eb10af930b0bc8333102262fd8c638"
 metafile = true
 
 [[files]]
@@ -1291,7 +1292,7 @@ metafile = true
 
 [[files]]
 file = "mods/sleep-warp-updated.pw.toml"
-hash = "4b64d90b57f471a659386b19092a58f59a024e6806997bb1c18dab394d31f13c"
+hash = "70ee11f948127a342ade242d0c6a169cd4e7508bd1f9e9106e781df60111a4f8"
 metafile = true
 
 [[files]]
@@ -1366,7 +1367,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
+hash = "4eb11828f5ba66e90adcabd3690c2d4788b0e570d9dc03fd544e91168799bb24"
 metafile = true
 
 [[files]]
@@ -1421,7 +1422,7 @@ metafile = true
 
 [[files]]
 file = "mods/unified-wind.pw.toml"
-hash = "d5256d9c627c3e765fae0809a3616f9a17bb5e9613a2647d0650920c218b2c60"
+hash = "99fc52aebb70053d6d7f04f9d033542b21c162a2d947d0c95b37266f32969df1"
 metafile = true
 
 [[files]]

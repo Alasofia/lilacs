@@ -4,7 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on Keep a Changelog,
 and this project adheres to Semantic Versioning.
 
-## [0.4.0-beta] - September 15th 2026
+## [0.4.1-beta] - October 2nd 2026
+### Added
+- [Helpful Armorers](https://modrinth.com/mod/helpful-armorers)
+
+### Removed
+- [Golems are Friends not Fodder](https://www.curseforge.com/minecraft/mc-mods/golemsarefriends)
+
+## [0.4.0-beta] - October 2nd 2026
 ### Added
 - [Respawning Animals](https://modrinth.com/mod/respawning-animals)
 - [Lamb Lanterns](https://modrinth.com/mod/lamb-lanterns)
