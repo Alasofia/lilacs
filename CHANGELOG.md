@@ -4,7 +4,23 @@ All notable changes to this project will be documented in this file.
 The format is based on Keep a Changelog,
 and this project adheres to Semantic Versioning.
 
+## [0.4.0-beta] - September 15th 2026
+### Added
+- [Respawning Animals](https://modrinth.com/mod/respawning-animals)
+- [Lamb Lanterns](https://modrinth.com/mod/lamb-lanterns)
+- [Particle Rain](https://modrinth.com/mod/particle-rain)
+- [SleepWarp (Updated)](https://modrinth.com/mod/sleep-warp-updated) (for real this time)
+- [Boat Break Fix](https://modrinth.com/mod/boat-break-fix)
+- [Golems are Friends not Fodder](https://www.curseforge.com/minecraft/mc-mods/golemsarefriends/files/6350914)
+- [Let Fish Love Reborn](https://www.curseforge.com/minecraft/mc-mods/let-fish-love-reborn/files/8315689)
+- [TerraBlender](https://modrinth.com/mod/terrablender)
 
+### Changes
+- Removed BetterDays (for real this time)
+- Removed Useful Lanterns
+- Removed Atmospheric Rain
+- Removed Roguelike Dungeons
+- Removed Whistle Mount
 
 ## [0.3.1-beta] - September 15th 2026
 ### Added
@@ -18,7 +34,7 @@ and this project adheres to Semantic Versioning.
 - Removed BetterDays
 - Removed SleepVote
 
-## [0.3.0-beta] - September 14th 2026
+## [0.3.0-beta] - October 2nd 2026
 ### Added
 - [Arrow In The Knee](https://modrinth.com/mod/aitk)
 - [Tom's Simple Storage](https://modrinth.com/mod/toms-storage)

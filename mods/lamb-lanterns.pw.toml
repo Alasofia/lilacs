@@ -1,0 +1,13 @@
+name = "Lamb Lanterns"
+filename = "lamblanterns-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XzuI5IDa/versions/H8iHSQhM/lamblanterns-1.2.0.jar"
+hash-format = "sha512"
+hash = "0b465b31e9e9ffff1f3b6c323ee230f31cc5dbd4b89d4bd1981e4a9eab234eab04526d3a4aa29037b41a2ad14e36ebea623b08b7cef8ba91bf778893a61d43ef"
+
+[update]
+[update.modrinth]
+mod-id = "XzuI5IDa"
+version = "H8iHSQhM"

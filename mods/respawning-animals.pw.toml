@@ -1,0 +1,13 @@
+name = "Respawning Animals"
+filename = "RespawningAnimals-v21.1.2-1.21.1-NeoForge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/WnwcSeWc/versions/a7lvPWaQ/RespawningAnimals-v21.1.2-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "a92bbcc81a4b2e127dd26e3ea3d0c70b64b8155682808cb56e8c5669f536c0e3ec3ca45a2b6be567d8ed35ddadcadbf183bb79b2e486f501dd6b65dd82c4cbb5"
+
+[update]
+[update.modrinth]
+mod-id = "WnwcSeWc"
+version = "a7lvPWaQ"
