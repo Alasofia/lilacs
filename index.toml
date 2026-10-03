@@ -9,14 +9,6 @@ file = "LICENSE"
 hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
 
 [[files]]
-file = "README.md"
-hash = "8052b22db8819550e6534ff5304d3ec649878d23da7319f822f50845593798db"
-
-[[files]]
-file = "TODO.md"
-hash = "a81a5949c4b08d1a396628e1a8d0ecdf508a7db9a9fc57fe72336bb4de2c6723"
-
-[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "4e5cea9af004650e0d31a6b3abf9672e1a3c5870c934bb98f6f8cd4de567d11e"
 
@@ -460,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/caelum.pw.toml"
-hash = "a942af9452803f38cd2dd0d00a1ce9307f5f07f140b8470690eaf6d2f1e61567"
+hash = "0f3e944b605b177ac0bb672c9ce31b0edf90db09cfa563ab49d98b502bec5d69"
 metafile = true
 
 [[files]]
@@ -794,7 +786,7 @@ metafile = true
 
 [[files]]
 file = "mods/helpful-armorers.pw.toml"
-hash = "1bb5f61aaa4357e2d6a04f4e8ee2af33da12d8f7eea08ae3c8c884fb98ee11c0"
+hash = "d17ecaf2954bdf7f7306aa673036d59fa1a85b504c9c34b1b2253d95db8879db"
 metafile = true
 
 [[files]]

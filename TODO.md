@@ -7,19 +7,20 @@ todo
 
 
 ### Changes
-- Travelers Titles Luminous Groves
-- Fix Particle Rain x Cool Rain
 - hide field guide notes from emi
 - fix overlapping recipes
     - ***quark stool***
-- make trial chambers vanilla frequency
 - Allow only one lantern in the hip slot
 - Slow the passage of night with an incomplete sleep vote
 - keepinventory but only for hotbar+armor+trinkets (reliable requiem config)
 - Review all Supplementaries, Quark, and Amendments features
 - double (triple) check quark anti overlap features
 - make streams reflowing blocks not count as valid path
-- 
+
+- Fix LambLanterns
+- Adjust Chalk Box tooltip to match pack
+- Fix sign model overlap
+
 
 ### Removals
 - advancements for removed supplementaries items
@@ -29,6 +30,10 @@ todo
 - disable paper ponder
 
 ### Custom Content
+- Quivers
+    - Currently disabled
+    - doesn't work in trinkets
+    
 - Item Descriptions for other mods
     - Vintage Beams
     - Every Compat
@@ -38,27 +43,30 @@ todo
     - Just Dandy
     - It Takes a Pillage - Continuation
 
+- Travelers Titles
+    - Cinderscapes
+        - Luminous Groves (a couple others)
+    
 - field guide
     - hybrid beta / cascades biome localization & icons
     - quark
     - azalea trees with azalea wood
     - cinderscapes
         - umbral trees
+        - scorched trees
 - potion rework:
     - add recipes for amendments cauldrons and custom potions
     - remove lingering potions
     - replace lingering potions with splash potions in crafting
-- Helpful Armorers also works on Clay Golems
 
 ### Misc
 - Cinderscapes & HT Tree Chop fix
 - pale garden not spawning?
 - fix wandering trader loot table
     - remove pathfinder quills?
-    
+- Helpful Armorers also works on Clay Golems
+
 ### Debating
-- Chipped & Chipped Express (might not fit)
-- Better Cosmetic Armor/Curios system (currently bandaid patched with glass armor)
 - add fence + vertical plank + other? to clutter no more for planks
 
 

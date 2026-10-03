@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file.
 The format is based on Keep a Changelog,
 and this project adheres to Semantic Versioning.
 
+
+## Unreleased
+### Added
+- Wind Link
+- Better Smoke
+
+### Removed
+- Unified Wind
+- Sparse Structures
+
+### Changes
+- Supplementaries Quiver disabled
+
 ## [0.4.1-beta] - October 2nd 2026
 ### Added
 - [Helpful Armorers](https://modrinth.com/mod/helpful-armorers)

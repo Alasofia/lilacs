@@ -256,11 +256,11 @@
     "overflowingbars:toughness_level": {
       "displacement": {
         "x": 0,
-        "y": 0
+        "y": 2
       },
       "direction": {
         "x": "NONE",
-        "y": "NONE"
+        "y": "UP"
       },
       "sync": "overflowingbars:toughness_level"
     },

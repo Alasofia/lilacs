@@ -1590,7 +1590,7 @@
 
 	[client.improved_tooltips]
 		"Attribute Tooltips" = true
-		"Food Tooltips" = true
+		"Food Tooltips" = false
 		"Shulker Tooltips" = true
 		"Map Tooltips" = true
 		"Enchanting Tooltips" = true
@@ -1878,11 +1878,11 @@
 
 [oddities]
 	Backpack = true
-	Crate = true
-	Magnets = true
-	"Matrix Enchanting" = true
-	Pipes = true
-	"Tiny Potato" = true
+	Crate = false
+	Magnets = false
+	"Matrix Enchanting" = false
+	Pipes = false
+	"Tiny Potato" = false
 	"Totem Of Holding" = false
 
 	[oddities.backpack]

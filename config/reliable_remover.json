@@ -34,6 +34,7 @@
     "toms_storage:item_filter",
     "toms_storage:polymorphic_item_filter",
     "toms_storage:tag_item_filter",
-    "toms_storage:inventory_configurator"
+    "toms_storage:inventory_configurator",
+    "supplementaries:quiver"
   ]
 }
