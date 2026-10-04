@@ -2,15 +2,27 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "53d160011b3c2d92956a488af68ae894c4de35184c426618b1c71cecbccf41cb"
+hash = "b5deafcc0a47674db6d7a26627c5350f54fa0e21999f7c1e0f9fc8e9a3e87b27"
 
 [[files]]
 file = "LICENSE"
 hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
 
 [[files]]
+file = "README.md"
+hash = "8052b22db8819550e6534ff5304d3ec649878d23da7319f822f50845593798db"
+
+[[files]]
+file = "TODO.md"
+hash = "2fbc337b1e961d6af7535feebdc5def42b23e6acfdf5b830e104c9fa3d389946"
+
+[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "4e5cea9af004650e0d31a6b3abf9672e1a3c5870c934bb98f6f8cd4de567d11e"
+
+[[files]]
+file = "config/amendments-client.toml"
+hash = "c776c5887254619bfcfc5cde06deb8c78f2d87513845783c8d003890e1327b6f"
 
 [[files]]
 file = "config/bcc-common.toml"
@@ -126,15 +138,15 @@ hash = "3db206bc0ed84083c71250cfd85a7f4e04dacd60e1394ae9bbf0f92363701957"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "f009dda012fb15def3109220144140024511ca5c1a1ff372d647d3d707f50a7b"
+hash = "54432e976ae02757b7b0a090b5fa095d8b7e46610b8352feca3a7a59c52440dc"
 
 [[files]]
 file = "config/raised.json"
-hash = "d2b48d54366aa3608f852974b49dcfa64a2d0a8c5ce2c1430d7614875fde7d42"
+hash = "19739cfa01a6e996298e3fd8b86255e0d2615309de2edf2e8233d63df0d051bb"
 
 [[files]]
 file = "config/reliable_remover.json"
-hash = "6e5a8a8f82f2fae18b888c0be78da61317339b84d3da114a3545cb877c5f98b5"
+hash = "0ad2a2c743e522322d8773ec94a073310b432afef5a3d91cf635b275ad52f4cb"
 
 [[files]]
 file = "config/sodium-options.json"
@@ -143,6 +155,10 @@ hash = "8ddaee38994c33a20cdc6e3bcf8f6ce349749caef5da9946d50b093759556ac0"
 [[files]]
 file = "config/sparsestructures.json5"
 hash = "626deded5ce1fa56802cc2a2343e2e0cbd6299c855ed28a99d0b655c3a3c360f"
+
+[[files]]
+file = "config/spearcore-common.toml"
+hash = "5550ce3133cda1b7da383099a4f280b7de25f9131248d91bb72cc8af85241b8e"
 
 [[files]]
 file = "config/starterkit.json5"
@@ -258,7 +274,7 @@ hash = "11a76b12097f8d17228ceeeb1c0e354470f1c4467ed8128d474454ecd94ce6fb"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "ccd43e40beb985df00d3caaa77ad48da881f3555d51ac9a82aa70a7c00fe4d6d"
+hash = "9012c6c75d7e934e5d08db36637a537d7755176641773fccc68c030ac3014d11"
 
 [[files]]
 file = "datapacks/lilacsDatapack/data/blooming_biosphere/worldgen/configured_feature/jungle/trees/fancy_dark_oak_azalea.json"
@@ -1183,6 +1199,11 @@ hash = "877c20cee9e059b7bee42b0b0295f4dff9c756ba3fbfbf2019539320b08b7621"
 metafile = true
 
 [[files]]
+file = "mods/reliable-replacer.pw.toml"
+hash = "dea05e246800913337e8f679024382845bb87753d278dab42359d9d5c1fc3d24"
+metafile = true
+
+[[files]]
 file = "mods/resource-pack-overrides.pw.toml"
 hash = "49ea10bb3ab2a86099a0290ae863d653cffd800ab28c2d878e6aad13dff76217"
 metafile = true
@@ -1308,13 +1329,13 @@ hash = "c554b4ff8f6bd7418fdf4d23b939db68fce673cd8247630ff7d2bf0fbe0c4879"
 metafile = true
 
 [[files]]
-file = "mods/sparsestructures.pw.toml"
-hash = "cbe48a0ff162e503e446480b014ab32f081c23fa8c48f5e99bcd89b57c272142"
+file = "mods/spawn-animations.pw.toml"
+hash = "47275c752133c1dcb5eb04102ed23cd24c79a14efa45dfd6d796b3d6b2f2719c"
 metafile = true
 
 [[files]]
-file = "mods/spawn-animations.pw.toml"
-hash = "47275c752133c1dcb5eb04102ed23cd24c79a14efa45dfd6d796b3d6b2f2719c"
+file = "mods/spear-core.pw.toml"
+hash = "7ebcc5f3048845453e50307cc00a40c8254e909a6d19e0c839cd28904992ee7f"
 metafile = true
 
 [[files]]
@@ -1410,11 +1431,6 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "892a1e3797ea8edbe2134758e4204bcd12306655a549960f70b8d70d84e7528c"
-metafile = true
-
-[[files]]
-file = "mods/unified-wind.pw.toml"
-hash = "99fc52aebb70053d6d7f04f9d033542b21c162a2d947d0c95b37266f32969df1"
 metafile = true
 
 [[files]]

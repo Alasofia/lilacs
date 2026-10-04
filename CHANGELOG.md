@@ -8,7 +8,9 @@ and this project adheres to Semantic Versioning.
 ## Unreleased
 ### Added
 - Wind Link
+- Spear Core
 - Better Smoke
+- Reliable Replacer
 
 ### Removed
 - Unified Wind
@@ -16,6 +18,7 @@ and this project adheres to Semantic Versioning.
 
 ### Changes
 - Supplementaries Quiver disabled
+- Cinderscapes sulfur replaced with Sulfur spike
 
 ## [0.4.1-beta] - October 2nd 2026
 ### Added

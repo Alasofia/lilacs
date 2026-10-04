@@ -1,0 +1,10 @@
+{
+"tag.c.leaf_carpets.description": "A decorative carpet made of leaves! It can be harvested by hand and has no collision box.",
+"tag.c.horse_armor.description": "An item that can be equipped on your Horse to protect them from damage.",
+"tag.quark.hedges.description": "Hedges made with an overworld log and the respective leaf type. They connect like fences, and have the same collision box.",
+"item.amendments.dragon_charge.description": "An item that is used to spawn Dragon's Breath, by hand or when shot from a Dispenser.",
+"tag.beams.beams.description": "Can be placed at any angle & on any surface you want! R-Click to place the beam, L-Click to cancel placement.",
+"item.chalk.chalk.description": "Allows you to draw marks for easier navigation in caves or structures, or as decoration."
+
+
+}

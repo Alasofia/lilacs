@@ -1,0 +1,4 @@
+#是否启用原版材质长矛（木、石、铁、金、钻石、下界合金）
+enableVanillaSpears = true
+#是否启用铜长矛
+enableCopperSpear = false
