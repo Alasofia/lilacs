@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "b5deafcc0a47674db6d7a26627c5350f54fa0e21999f7c1e0f9fc8e9a3e87b27"
+hash = "c0d3d5b9b4bf30120ad2c16ff904a93f844e28dce5e1f3e12e9ae98e6469e802"
 
 [[files]]
 file = "LICENSE"
@@ -14,7 +14,7 @@ hash = "8052b22db8819550e6534ff5304d3ec649878d23da7319f822f50845593798db"
 
 [[files]]
 file = "TODO.md"
-hash = "2fbc337b1e961d6af7535feebdc5def42b23e6acfdf5b830e104c9fa3d389946"
+hash = "7aaa6903b8376aacbacf7b6c06e8950dd46207f9312c1a8f2f0c4bd7bb5dd5eb"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
@@ -145,8 +145,16 @@ file = "config/raised.json"
 hash = "19739cfa01a6e996298e3fd8b86255e0d2615309de2edf2e8233d63df0d051bb"
 
 [[files]]
+file = "config/rare_ice.properties"
+hash = "febb63ad25addf57bb9c3494c475682d224237a3e808e962228e5df7b2486657"
+
+[[files]]
 file = "config/reliable_remover.json"
-hash = "0ad2a2c743e522322d8773ec94a073310b432afef5a3d91cf635b275ad52f4cb"
+hash = "d67fbddec9a12f11fbba0e92df3b8a9e0a94fb011d6a4bb2da4d88d8d075bf16"
+
+[[files]]
+file = "config/reliable_replacer/swapper.json"
+hash = "c09c2af174df10c5d4b29c6ba670b9fc08cc55a49c3abad81f57bf719b5901e9"
 
 [[files]]
 file = "config/sodium-options.json"
@@ -274,7 +282,7 @@ hash = "11a76b12097f8d17228ceeeb1c0e354470f1c4467ed8128d474454ecd94ce6fb"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "9012c6c75d7e934e5d08db36637a537d7755176641773fccc68c030ac3014d11"
+hash = "6e990bb28ab6842058d3fb7daba6eb035ba02611b498e3042e9e788d6b8294ab"
 
 [[files]]
 file = "datapacks/lilacsDatapack/data/blooming_biosphere/worldgen/configured_feature/jungle/trees/fancy_dark_oak_azalea.json"
@@ -285,8 +293,40 @@ file = "datapacks/lilacsDatapack/data/blooming_biosphere/worldgen/configured_fea
 hash = "60cf4981aff5e7fff6a1e99e40ffb7a37758bad32fd5ef570e743c3e0f03f365"
 
 [[files]]
+file = "datapacks/lilacsDatapack/data/c/tags/block/fence_gates.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "datapacks/lilacsDatapack/data/c/tags/block/leaf_carpets.json"
+hash = "f486cd080d08e770794ba2dd4c33e0331c3223a7c24d0ceed77fb8ab65a9864e"
+
+[[files]]
+file = "datapacks/lilacsDatapack/data/c/tags/item/horse_armor.json"
+hash = "dcab11dc4fb6f0b436e986417104f19202b10aedb393e626c70b6fbab201252a"
+
+[[files]]
+file = "datapacks/lilacsDatapack/data/c/tags/item/sulfurs.json"
+hash = "4bd64d52b1b230579744563ff511823321735617f4eb377488676bcb5b051491"
+
+[[files]]
+file = "datapacks/lilacsDatapack/data/chalk/tags/item/chalk.json"
+hash = "feb80a9f7aa775a179a15815ad2ee43148c23e7f31f06970ba447a5c4cebbc58"
+
+[[files]]
 file = "datapacks/lilacsDatapack/data/curios/tags/item/hands.json"
 hash = "92a71391f0fdc53ef735be78b0860888c0ce83279383c5886537e0be96b3375a"
+
+[[files]]
+file = "datapacks/lilacsDatapack/data/fieldguide/tags/block/multiblock_scan.json"
+hash = "0846dbafb7268c471c5b7d8fec6459579a59ecf9a5184023b40b42a4706f3faf"
+
+[[files]]
+file = "datapacks/lilacsDatapack/data/fieldguide/tags/block/plants.json"
+hash = "0846dbafb7268c471c5b7d8fec6459579a59ecf9a5184023b40b42a4706f3faf"
+
+[[files]]
+file = "datapacks/lilacsDatapack/data/lilacs/recipe/backpack.json"
+hash = "8519fdf6f47b9e7d75a8152125b7d903d615c667fc5ca53ff0c4437ae3dfaeb2"
 
 [[files]]
 file = "datapacks/lilacsDatapack/data/map_atlases/curios/entities/player.json"
@@ -339,6 +379,11 @@ metafile = true
 [[files]]
 file = "mods/amplified-nether.pw.toml"
 hash = "2d0a74a5bfae2de8b41f4aa3639a4b7ce2f2a4585ba8778f1dff893befc3adb7"
+metafile = true
+
+[[files]]
+file = "mods/anti-tool-break.pw.toml"
+hash = "4cc44c02ac8f3dcf205336d1f86eafc909971f887aa2455072a53e7957283f68"
 metafile = true
 
 [[files]]
@@ -468,7 +513,7 @@ metafile = true
 
 [[files]]
 file = "mods/caelum.pw.toml"
-hash = "0f3e944b605b177ac0bb672c9ce31b0edf90db09cfa563ab49d98b502bec5d69"
+hash = "38f80087ad9d656a6c5aed03ef362463b01c2e9d6716a40432e2e7842216b604"
 metafile = true
 
 [[files]]
@@ -802,7 +847,7 @@ metafile = true
 
 [[files]]
 file = "mods/helpful-armorers.pw.toml"
-hash = "d17ecaf2954bdf7f7306aa673036d59fa1a85b504c9c34b1b2253d95db8879db"
+hash = "1bb5f61aaa4357e2d6a04f4e8ee2af33da12d8f7eea08ae3c8c884fb98ee11c0"
 metafile = true
 
 [[files]]
@@ -994,6 +1039,11 @@ hash = "bd64d0d30305e586a956502a798e4c692b304f2a7430d68f06ee4120f4b879a8"
 metafile = true
 
 [[files]]
+file = "mods/modulation.pw.toml"
+hash = "4605c7d5998111ec4da74f482bd34e60ef3d5c1c60cc9714a36e3929172fa12f"
+metafile = true
+
+[[files]]
 file = "mods/monkey-utils.pw.toml"
 hash = "80117bca21a56693fad14d4ef9e15f8375a21089594263fa67a33e735ef04229"
 metafile = true
@@ -1109,8 +1159,8 @@ hash = "ac9ce0269080bc5c040c846e23a7db7a8fe735c8a066d2e2fe881d8361da7833"
 metafile = true
 
 [[files]]
-file = "mods/pick-up-notifier.pw.toml"
-hash = "9670332b4364a7ef14ad6d4d9bb39d6ef1a3a284d25875ed960a3096bf50ff35"
+file = "mods/pickup-notifications.pw.toml"
+hash = "d6de6e02902903a4f55f77ae9a50ae2cc0ea11f33366a7c6692de05992305a18"
 metafile = true
 
 [[files]]
@@ -1569,6 +1619,10 @@ hash = "f3102ab2b538d89976e3d5776b18daa831517928bb22cea0d9464e7a87d848ff"
 metafile = true
 
 [[files]]
+file = "resourcepacks/lilacs/assets/c/lang/en_us.json"
+hash = "36af40710d142317ed207d758fca9967940cd3ec7feb447a683af3f54f95f302"
+
+[[files]]
 file = "resourcepacks/lilacs/assets/toms_storage/lang/en_us.json"
 hash = "ca2676b2a96cbcda809f46d6e9911c499b1604660332d7c86df9195a0c379acc"
 
@@ -1579,11 +1633,6 @@ hash = "bdacbf68c036ec4b1c8269ebc22c86580cc8ea3416ed4b5330fbd56e312b567b"
 [[files]]
 file = "resourcepacks/lilacs/pack.png"
 hash = "8e85284df031d69ec6fb55e92bc0e66d826094ba7db3fca7806fd2ae93045fec"
-
-[[files]]
-file = "resourcepacks/low-fire-pack.pw.toml"
-hash = "e6e0c1b4d0f12b1bd8e7ac19390f32301a231aeaff2028fc16a56668b3e1c1cc"
-metafile = true
 
 [[files]]
 file = "resourcepacks/mod-descriptions.pw.toml"

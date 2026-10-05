@@ -35,6 +35,8 @@
     "toms_storage:polymorphic_item_filter",
     "toms_storage:tag_item_filter",
     "toms_storage:inventory_configurator",
-    "supplementaries:quiver"
+    "supplementaries:quiver",
+    "quark:ravager_hide",
+    "quark:bonded_ravager_hide"
   ]
 }

@@ -25,13 +25,16 @@ todo
 ### Removals
 - advancements for removed supplementaries items
 - foxhounds?
-- disable paper ponder
+- disable paper ponder 
+
 
 ### Custom Content
 - Quivers
     - Currently disabled
     - doesn't work in trinkets
-    
+- Ponders
+    - Via Romana
+    - Nether Portal
 - Item Descriptions for other mods
     - Vintage Beams
     - Every Compat

@@ -11,14 +11,18 @@ and this project adheres to Semantic Versioning.
 - Spear Core
 - Better Smoke
 - Reliable Replacer
+- A Whole Bunch of Custom Item Descriptions
 
 ### Removed
 - Unified Wind
 - Sparse Structures
+- Low Fire (resource pack)
 
 ### Changes
 - Supplementaries Quiver disabled
 - Cinderscapes sulfur replaced with Sulfur spike
+- Removed Ravager Hide & associated blocks
+- Changed backpack recipe to need leather and gold
 
 ## [0.4.1-beta] - October 2nd 2026
 ### Added

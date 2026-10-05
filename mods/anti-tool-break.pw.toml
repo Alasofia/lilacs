@@ -1,0 +1,13 @@
+name = "Anti Tool Break"
+filename = "antitoolbreak-1.0.0+mc1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aRfBFkal/versions/JNi7SqJT/antitoolbreak-1.0.0%2Bmc1.21.jar"
+hash-format = "sha256"
+hash = "095b6be3dfd9a236cdf7879833663ed0297156c5a67ee12b5912d7f765b50d4d"
+
+[update]
+[update.modrinth]
+mod-id = "aRfBFkal"
+version = "JNi7SqJT"

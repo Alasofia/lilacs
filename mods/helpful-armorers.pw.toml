@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/LfvbzzA6/versions/ok86c8lS/helpfularmorers-1.21.1-1.2.0.jar"
-hash-format = "sha512"
-hash = "08cbc2bc6dbc5bf4d89dc84442f7e4076f697ff00049bf360e8c716d6ac2cc9cce7f25ecd0f6353b7a3342b65945985787fd666d2732a86a2963dfed4d781968"
+hash-format = "sha256"
+hash = "2022136fb60730cf7ecaf21219c70d39f2236e3f26c6f88b6c44cde9bea303e9"
 
 [update]
 [update.modrinth]
