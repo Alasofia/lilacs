@@ -38,4 +38,5 @@
   "block.cinderscapes.umbral_fungus.description": "A block that can be grown with Bone Meal into a huge Umbral Fungus.",
   "block.cinderscapes.umbral_nylium.description": "A grass-like block found in Luminous Groves",
   "block.cinderscapes.umbral_wart_block.description": "The 'leaves' of a huge Umbral Fungus",
-  "item.cinderscapes.ash_pile.description": "An item collected from the ashen biomes of the Nether.",
+  "item.cinderscapes.ash_pile.description": "An item collected from the ashen biomes of the Nether."
+}
