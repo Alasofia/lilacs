@@ -1,13 +1,13 @@
 name = "Bad Horse Fix"
-filename = "badhorsefix-neoforge-3.0.1.jar"
+filename = "badhorsefix-neoforge-4.0.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/A4pJeHgM/versions/fdX9GPvn/badhorsefix-neoforge-3.0.1.jar"
+url = "https://cdn.modrinth.com/data/A4pJeHgM/versions/ASBZuqKq/badhorsefix-neoforge-4.0.0.jar"
 hash-format = "sha256"
-hash = "c6eaa5a5134eb9af00d3085dca7d4dfef3d664ad143dc17a390cf259b948d6d5"
+hash = "1478d7a0ee0848e1ba4a6e3f19bcef76db60e879f0c99131dffcc37d6d64d511"
 
 [update]
 [update.modrinth]
 mod-id = "A4pJeHgM"
-version = "fdX9GPvn"
+version = "ASBZuqKq"

@@ -1,13 +1,13 @@
 name = "Smooth Gui"
-filename = "smoothgui-neoforge-2.0.5+mc1.21.jar"
+filename = "smoothgui-neoforge-2.0.7+mc1.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/j6yrZogB/versions/1FvKl0FJ/smoothgui-neoforge-2.0.5%2Bmc1.21.jar"
+url = "https://cdn.modrinth.com/data/j6yrZogB/versions/Jllto25c/smoothgui-neoforge-2.0.7%2Bmc1.21.jar"
 hash-format = "sha256"
-hash = "b1a5258472d8e340c68cab3c424d1e9543150b65a1336647e2d47f02a21aca4c"
+hash = "cf39006596d11a16a6462da4defece8b22e26bce9f8006ba66ab618a8272eb02"
 
 [update]
 [update.modrinth]
 mod-id = "j6yrZogB"
-version = "1FvKl0FJ"
+version = "Jllto25c"

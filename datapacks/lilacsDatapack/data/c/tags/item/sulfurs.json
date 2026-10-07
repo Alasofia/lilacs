@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:sulfur_spike",
+    "cinderscapes:sulfur_quartz"
+  ]
+}

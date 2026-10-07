@@ -1,13 +1,13 @@
 name = "Data Anchor"
-filename = "Data_Anchor-neoforge-1.21.1-2.0.0.16.jar"
+filename = "Data_Anchor-neoforge-1.21.1-2.0.0.17.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/z2XEADmE/versions/XORWPtYC/Data_Anchor-neoforge-1.21.1-2.0.0.16.jar"
+url = "https://cdn.modrinth.com/data/z2XEADmE/versions/Q3J2iejk/Data_Anchor-neoforge-1.21.1-2.0.0.17.jar"
 hash-format = "sha256"
-hash = "4965cdb056939f6298fed1ff2b1c2aa99c481fe0be3f4006a296abd11a5f9c0f"
+hash = "b42c84c05891ef9f75ce55d4fcea64442e5a0d5f65b5c8a34c3af98645575707"
 
 [update]
 [update.modrinth]
 mod-id = "z2XEADmE"
-version = "XORWPtYC"
+version = "Q3J2iejk"

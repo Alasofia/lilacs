@@ -1,0 +1,6 @@
+{
+  "swapper": {
+    "cinderscapes:sulfur": "minecraft:sulfur_spike",
+    "cinderscapes:sulfur_ore": "cinderscapes:sulfur_quartz_ore"
+  }
+}

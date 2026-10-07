@@ -1,13 +1,13 @@
 name = "MonoLib"
-filename = "monolib-neoforge-1.21.1-4.1.0.jar"
+filename = "monolib-neoforge-1.21.1-4.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9leXt4A5/versions/nL0TTR3C/monolib-neoforge-1.21.1-4.1.0.jar"
+url = "https://cdn.modrinth.com/data/9leXt4A5/versions/YIL3k0PZ/monolib-neoforge-1.21.1-4.1.2.jar"
 hash-format = "sha256"
-hash = "f1f0c6de3415d94286905efcd84911602a105f5f57e7662513f7187e25d9e5fd"
+hash = "6d9a639254cb2bc119eb640c0ad26a92f3a8ebf054852f8e80d3aceb3820bd77"
 
 [update]
 [update.modrinth]
 mod-id = "9leXt4A5"
-version = "nL0TTR3C"
+version = "YIL3k0PZ"
