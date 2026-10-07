@@ -9,14 +9,6 @@ file = "LICENSE"
 hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
 
 [[files]]
-file = "README.md"
-hash = "8052b22db8819550e6534ff5304d3ec649878d23da7319f822f50845593798db"
-
-[[files]]
-file = "TODO.md"
-hash = "a81a5949c4b08d1a396628e1a8d0ecdf508a7db9a9fc57fe72336bb4de2c6723"
-
-[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "4e5cea9af004650e0d31a6b3abf9672e1a3c5870c934bb98f6f8cd4de567d11e"
 
