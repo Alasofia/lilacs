@@ -1,28 +1,33 @@
 CHANGELOG.md
 All notable changes to this project will be documented in this file.
-
 The format is based on Keep a Changelog,
 and this project adheres to Semantic Versioning.
 
 
-## Unreleased
+## [0.5.0-beta] - October 7th 2026
 ### Added
-- Wind Link
-- Spear Core
-- Better Smoke
-- Reliable Replacer
+- [Wind Link](https://modrinth.com/mod/windlink)
+- [Better Smoke](https://modrinth.com/mod/better-smoke)
+- [Reliable Replacer](https://modrinth.com/mod/reliable-replacer)
 - A Whole Bunch of Custom Item Descriptions
+- [BetterF3](https://modrinth.com/mod/betterf3)
+- [Modulation](https://modrinth.com/mod/modulation)
+- [Pickup Notifications](https://modrinth.com/mod/pickup-notifications)
+- [Modded Omelet](https://modrinth.com/resourcepack/modded-omelet)
+
 
 ### Removed
 - Unified Wind
 - Sparse Structures
 - Low Fire (resource pack)
+- Pick Up Notifier
 
 ### Changes
 - Supplementaries Quiver disabled
 - Cinderscapes sulfur replaced with Sulfur spike
 - Removed Ravager Hide & associated blocks
 - Changed backpack recipe to need leather and gold
+- Updates!
 
 ## [0.4.1-beta] - October 2nd 2026
 ### Added

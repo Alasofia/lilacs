@@ -1,0 +1,13 @@
+name = "Modded Omelet - Modern Spawn Eggs"
+filename = "Modded Omelet [120] [171].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SrktyNSI/versions/VW4o389x/Modded%20Omelet%20%5B120%5D%20%5B171%5D.zip"
+hash-format = "sha256"
+hash = "1808b2edc0f575c94b539ad1c9b837f525e60295724789db031362193fd93698"
+
+[update]
+[update.modrinth]
+mod-id = "SrktyNSI"
+version = "VW4o389x"

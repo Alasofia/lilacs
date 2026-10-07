@@ -1,26 +1,19 @@
-todo
-
 ## TODO
 ### Additions
 - Reliable Requiem
-- Better F3
-    - configure it
+    - keepinventory but only for hotbar+armor+trinkets (reliable requiem config)
 
 ### Changes
 - hide field guide notes from emi
 - fix overlapping recipes
     - ***quark stool***
     - mostly comes from clutternomore apparently
-- Allow only one lantern in the hip slot
-- Slow the passage of night with an incomplete sleep vote
-- keepinventory but only for hotbar+armor+trinkets (reliable requiem config)
 - Review all Supplementaries, Quark, and Amendments features
 - double (triple) check quark anti overlap features
 - make streams reflowing blocks not count as valid path
 - Fix LambLanterns
 - Adjust Chalk Box tooltip to match pack
-- Fix sign model overlap
-
+- Disable Essential even if installed
 
 ### Removals
 - advancements for removed supplementaries items
@@ -32,17 +25,10 @@ todo
 - Quivers
     - Currently disabled
     - doesn't work in trinkets
+    
 - Ponders
     - Via Romana
     - Nether Portal
-- Item Descriptions for other mods
-    - Vintage Beams
-    - Every Compat
-    - Cinderscapes
-    - Blahaj
-    - Vanilla Backport
-    - Just Dandy
-    - It Takes a Pillage - Continuation
 
 - Travelers Titles
     - Cinderscapes
@@ -80,7 +66,7 @@ todo
 
 ### Debating
 - add fence + vertical plank + other? to clutter no more for planks
-
+- Replace/re-examine music mod
 
 
 

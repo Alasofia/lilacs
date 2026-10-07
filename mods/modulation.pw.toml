@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ItRzabx0/versions/gKxPMiVB/modulation-neoforge-1.21.1-3.6.2.jar"
-hash-format = "sha512"
-hash = "007ddd6b6045c98779c3f34445ea62f316da77fb7561b0eaaca2eeb346df51205cb30d78f666a943e1cc473cf9f3dd33dbef27903b258606d8cc6b80444d7374"
+hash-format = "sha256"
+hash = "d2190e10f2ba4d5c1ec6f81cf709ce39b502f823e2ee111461ddf8bd336c543b"
 
 [update]
 [update.modrinth]

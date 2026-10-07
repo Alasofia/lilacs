@@ -1,13 +1,13 @@
 name = "Explosive Enhancement: Reforged"
-filename = "explosiveenhancement-neoforge-1.21.1-1.1.2.jar"
+filename = "explosiveenhancement-neoforge-1.21.1-1.2.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/r0camchr/versions/XVYkZnNg/explosiveenhancement-neoforge-1.21.1-1.1.2.jar"
+url = "https://cdn.modrinth.com/data/r0camchr/versions/GYn7YRXz/explosiveenhancement-neoforge-1.21.1-1.2.0.jar"
 hash-format = "sha256"
-hash = "dc161b5a6fdc57078913c5846d825a50c476f4ce6279b02837dd24fa33417260"
+hash = "ec01cb0effac5bd0e11f7c819b7202db80e9e80dc27abbb5c0f9192f2ffa0ea8"
 
 [update]
 [update.modrinth]
 mod-id = "r0camchr"
-version = "XVYkZnNg"
+version = "GYn7YRXz"
