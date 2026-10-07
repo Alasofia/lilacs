@@ -1,13 +1,13 @@
 name = "Every Compat (Wood Good)"
-filename = "everycomp-1.21-2.11.51-neoforge.jar"
+filename = "everycomp-1.21-2.11.52-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/eiktJyw1/versions/o0n9IWBr/everycomp-1.21-2.11.51-neoforge.jar"
+url = "https://cdn.modrinth.com/data/eiktJyw1/versions/yqVEmpxu/everycomp-1.21-2.11.52-neoforge.jar"
 hash-format = "sha256"
-hash = "83490f9f8c53831c3f7c5aa4247572b78367ae69ead15f18aec6381de353782a"
+hash = "d282c5439feba9aaf2686819116d63674671e6146740a7388f4bb448dcb4d112"
 
 [update]
 [update.modrinth]
 mod-id = "eiktJyw1"
-version = "o0n9IWBr"
+version = "yqVEmpxu"

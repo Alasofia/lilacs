@@ -1,0 +1,13 @@
+name = "Modulation"
+filename = "modulation-neoforge-1.21.1-3.6.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ItRzabx0/versions/gKxPMiVB/modulation-neoforge-1.21.1-3.6.2.jar"
+hash-format = "sha256"
+hash = "d2190e10f2ba4d5c1ec6f81cf709ce39b502f823e2ee111461ddf8bd336c543b"
+
+[update]
+[update.modrinth]
+mod-id = "ItRzabx0"
+version = "gKxPMiVB"

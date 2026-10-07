@@ -1,66 +1,72 @@
-todo
-
 ## TODO
 ### Additions
 - Reliable Requiem
-- Spear mod?
-
+    - keepinventory but only for hotbar+armor+trinkets (reliable requiem config)
 
 ### Changes
-- Travelers Titles Luminous Groves
-- Fix Particle Rain x Cool Rain
 - hide field guide notes from emi
 - fix overlapping recipes
     - ***quark stool***
-- make trial chambers vanilla frequency
-- Allow only one lantern in the hip slot
-- Slow the passage of night with an incomplete sleep vote
-- keepinventory but only for hotbar+armor+trinkets (reliable requiem config)
+    - mostly comes from clutternomore apparently
 - Review all Supplementaries, Quark, and Amendments features
 - double (triple) check quark anti overlap features
 - make streams reflowing blocks not count as valid path
-- 
+- Fix LambLanterns
+- Adjust Chalk Box tooltip to match pack
+- Disable Essential even if installed
 
 ### Removals
 - advancements for removed supplementaries items
-- one food tooltip
-- battlesign????
 - foxhounds?
-- disable paper ponder
+- disable paper ponder 
+
 
 ### Custom Content
-- Item Descriptions for other mods
-    - Vintage Beams
-    - Every Compat
-    - Cinderscapes
-    - Blahaj
-    - Vanilla Backport
-    - Just Dandy
-    - It Takes a Pillage - Continuation
+- Quivers
+    - Currently disabled
+    - doesn't work in trinkets
+    
+- Ponders
+    - Via Romana
+    - Nether Portal
 
+- Travelers Titles
+    - Cinderscapes
+        - Luminous Groves (a couple others)
+    
 - field guide
     - hybrid beta / cascades biome localization & icons
     - quark
     - azalea trees with azalea wood
     - cinderscapes
         - umbral trees
+        - scorched trees
+        
 - potion rework:
     - add recipes for amendments cauldrons and custom potions
     - remove lingering potions
     - replace lingering potions with splash potions in crafting
-- Helpful Armorers also works on Clay Golems
-
+    
+- Recipes
+    - Wart blocks + glowstone dust = shroomlight
+    
+- Custom Spawn Egg Textures
+    - Guard Villagers
+    - It Takes a Pillage
+    - Quark
+    
 ### Misc
 - Cinderscapes & HT Tree Chop fix
 - pale garden not spawning?
 - fix wandering trader loot table
     - remove pathfinder quills?
-    
-### Debating
-- Chipped & Chipped Express (might not fit)
-- Better Cosmetic Armor/Curios system (currently bandaid patched with glass armor)
-- add fence + vertical plank + other? to clutter no more for planks
+- Helpful Armorers also works on Clay Golems
+- Inspect Frame Changer for clutternomore shenanigans
 
+
+### Debating
+- add fence + vertical plank + other? to clutter no more for planks
+- Replace/re-examine music mod
 
 
 

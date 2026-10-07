@@ -1,13 +1,13 @@
 name = "Reliable Recipes"
-filename = "reliable_recipes-neoforge-1.21.1-3.1.8.jar"
+filename = "reliable_recipes-3.4.0+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Hl4ARA1z/versions/4fDrbeQW/reliable_recipes-neoforge-1.21.1-3.1.8.jar"
+url = "https://cdn.modrinth.com/data/Hl4ARA1z/versions/190bosja/reliable_recipes-3.4.0%2B1.21.1-neoforge.jar"
 hash-format = "sha256"
-hash = "942794d210f0c883ee38d46a86dac540649f061a0f166dde3929a3ed97f1cb81"
+hash = "4bc98372abe4cc090c99787edde479c626ed5a3f32686b960d72ab7ef8ad0e6b"
 
 [update]
 [update.modrinth]
 mod-id = "Hl4ARA1z"
-version = "4fDrbeQW"
+version = "190bosja"

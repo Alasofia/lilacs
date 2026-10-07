@@ -1,13 +1,13 @@
 name = "Particle Rain"
-filename = "particlerain-4.0.0-beta.11+1.21.1-neoforge.jar"
+filename = "particlerain-4.0.1+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nrikgvxm/versions/k32OBTlL/particlerain-4.0.0-beta.11%2B1.21.1-neoforge.jar"
+url = "https://cdn.modrinth.com/data/nrikgvxm/versions/caOF42Gm/particlerain-4.0.1%2B1.21.1-neoforge.jar"
 hash-format = "sha256"
-hash = "2e009947634616dfd251532eda14ef1729bcde1ccb482de83d67dffa232d1be0"
+hash = "a183732e5dddee06627159ab035d9be67ed30e01b9597ba5190b0a4206c05516"
 
 [update]
 [update.modrinth]
 mod-id = "nrikgvxm"
-version = "k32OBTlL"
+version = "caOF42Gm"
