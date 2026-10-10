@@ -3,6 +3,18 @@ All notable changes to this project will be documented in this file.
 The format is based on Keep a Changelog,
 and this project adheres to Semantic Versioning.
 
+
+
+## Unreleased
+
+### Removed
+- Frame Changer
+
+### Changes
+- Fixed Reliable Replacer sidedness
+- Disabled OBE sign optimizations
+
+
 ## [0.5.0.1-beta] - October 7th 2026
 ### Added
 - [Reliable Replacer](https://modrinth.com/mod/reliable-replacer) (for real this time)
