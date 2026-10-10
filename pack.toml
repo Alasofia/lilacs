@@ -1,6 +1,6 @@
 name = "lilacs"
 author = "alas"
-version = "0.5.0"
+version = "0.5.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,7 +10,7 @@ hash = "0701beaea9520c1d0f394bd7c1a4818610f9ae774a695b9a8e43e47db2996199"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.252"
+neoforge = "21.1.257"
 
 [options]
 acceptable-game-versions = []

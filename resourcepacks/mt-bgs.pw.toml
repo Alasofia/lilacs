@@ -1,0 +1,13 @@
+name = "Midnighttigger's Better Grass and Snow"
+filename = "Midnighttigger's Better Grass and Snow.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tO3CWuz1/versions/GFXmKptc/Midnighttigger%27s%20Better%20Grass%20and%20Snow.zip"
+hash-format = "sha256"
+hash = "1451ae029ae1cbfc937ab58f0bce389020668e2e2fe26e1ac77d2227963f6b99"
+
+[update]
+[update.modrinth]
+mod-id = "tO3CWuz1"
+version = "GFXmKptc"

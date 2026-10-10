@@ -1,0 +1,13 @@
+name = "Acclimate - Revised Minecraft OST & C4Music Addon"
+filename = "Acclimate_2.1.0_MC-Music-Revised.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fvIUS7bH/versions/2rjxvAP7/Acclimate_2.1.0_MC-Music-Revised.zip"
+hash-format = "sha256"
+hash = "eacb9ac19d7e89c2be528aaf94a3c09948fa1b93540132eac0e9dca5f7d0efdd"
+
+[update]
+[update.modrinth]
+mod-id = "fvIUS7bH"
+version = "2rjxvAP7"

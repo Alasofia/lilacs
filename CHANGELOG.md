@@ -3,6 +3,38 @@ All notable changes to this project will be documented in this file.
 The format is based on Keep a Changelog,
 and this project adheres to Semantic Versioning.
 
+## [0.5.0.1-beta] - October 7th 2026
+### Added
+- [Reliable Replacer](https://modrinth.com/mod/reliable-replacer) (for real this time)
+- [Better Smoke](https://modrinth.com/mod/better-smoke) (for real this time)
+- [Attack Through Grass](https://modrinth.com/mod/attack-through-grass/versions)
+- [Acclimate](https://modrinth.com/resourcepack/acclimate)
+- [C4Music](https://modrinth.com/resourcepack/c4music/version/4.2)
+- [Fusion](https://modrinth.com/mod/fusion-connected-textures)
+- [MT's Default Connected Textures](https://modrinth.com/resourcepack/mt-ct-d)
+- [Cubic Sun and Moon](https://modrinth.com/resourcepack/cubic-sun-moon)
+- Sparse Structures
+
+### Removed
+- Effectual
+- AsyncParticles
+- Cut Through
+- ToadLib
+- LambLanterns
+- Leaves Be Gone
+- Accurate Block Placement
+- Curios
+- Convenient Effects
+- Music & Melody
+- Caelum
+- Resource Pack Overrides
+- Continuity
+
+### Changes
+- Fixed Raised config
+- Updated NeoForge
+- Sparse Structures back, but disabled for fortresses
+
 
 ## [0.5.0-beta] - October 7th 2026
 ### Added

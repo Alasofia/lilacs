@@ -1,6 +1,5 @@
 {
   "loadOrder": [
-  "resourcepacks/Low Fire.zip",
   "resourcepacks/Authentic Shadows_1.21+.zip",
   "resourcepacks/Detail-Brush-1.8-1.20.2+.zip",
   "resourcepacks/Detail Brush - Modded Disc Compat.zip",
@@ -11,6 +10,10 @@
   "resourcepacks/BedrockStyleCursors_v1.0.0.zip",
   "resourcepacks/Re-Simple-Storage.zip",
   "resourcepacks/Modded Omelet [120] [171].zip",
+  "resourcepacks/Midnighttigger's Default Connected Textures.zip",
+  "resourcepacks/cubic-sun-moon-v1.8.5.zip",
+  "resourcepacks/C4Music_v4.2.zip",
+  "resourcepacks/Acclimate_2.1.0_MC-Music-Revised.zip",
   "resourcepacks/lilacs/"
   ]
 }
