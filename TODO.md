@@ -67,6 +67,9 @@
 ### Debating
 - add fence + vertical plank + other? to clutter no more for planks
 - Replace/re-examine music mod
+- fancymenu based fudgeu/Playlist replacement
+- Replace Continuity with Fusion?? Why are there both??
+
 
 
 
