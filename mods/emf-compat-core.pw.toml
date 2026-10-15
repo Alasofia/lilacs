@@ -1,13 +1,13 @@
 name = "EMF Compat: Core"
-filename = "emf_compat_core_1.21.1_2.0.0.jar"
+filename = "emf_compat_core_neoforge_1.21.1_2.3.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/hbGct5uU/versions/31At82lp/emf_compat_core_1.21.1_2.0.0.jar"
+url = "https://cdn.modrinth.com/data/hbGct5uU/versions/esEPP7KY/emf_compat_core_neoforge_1.21.1_2.3.0.jar"
 hash-format = "sha256"
-hash = "0bf16c45550896381f732e4c3348e8e1d8e9457c355d616536d6cf8982c66eb0"
+hash = "9f4852d449530c32a93f9a1e78ed4e101f1fd9cabdffbef02bd6dbc8c28d330a"
 
 [update]
 [update.modrinth]
 mod-id = "hbGct5uU"
-version = "31At82lp"
+version = "esEPP7KY"

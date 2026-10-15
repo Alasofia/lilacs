@@ -1,13 +1,13 @@
 name = "Placebo"
-filename = "Placebo-1.21.1-9.9.3.jar"
+filename = "Placebo-1.21.1-9.9.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/tCkE8p2N/versions/h326cnw1/Placebo-1.21.1-9.9.3.jar"
+url = "https://cdn.modrinth.com/data/tCkE8p2N/versions/B5zbSVlT/Placebo-1.21.1-9.9.4.jar"
 hash-format = "sha256"
-hash = "4850da9eef598e00fbf4b1bd68da0c6d15c3449f482ed8ae6d08047a58765a45"
+hash = "d8952c019d6e54befe37155bc9876985ec57bf73dd33872115c7a65ac6bceba0"
 
 [update]
 [update.modrinth]
 mod-id = "tCkE8p2N"
-version = "h326cnw1"
+version = "B5zbSVlT"
