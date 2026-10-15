@@ -1,0 +1,13 @@
+name = "Lapis Reserve Reborn"
+filename = "lapisreservereborn-1.0.15.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/5q1UMeyc/versions/k9OTleRw/lapisreservereborn-1.0.15.jar"
+hash-format = "sha256"
+hash = "ba0ccf0bb4d89a46bdf1fe94b7985578b1ee414e5b07ed0fc274d83ad4707be6"
+
+[update]
+[update.modrinth]
+mod-id = "5q1UMeyc"
+version = "k9OTleRw"

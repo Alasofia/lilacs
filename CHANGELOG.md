@@ -3,6 +3,30 @@ All notable changes to this project will be documented in this file.
 The format is based on Keep a Changelog,
 and this project adheres to Semantic Versioning.
 
+
+## [0.5.1-beta] - October 7th 2026
+### Added
+- [Lapis Reserve Reborn](https://modrinth.com/mod/lapis-reserve-reborn)
+- [ConfigManager](https://modrinth.com/mod/configmanager)
+- [Anvil Never Too Expensive](https://modrinth.com/mod/ante)
+- [Fast Workbench](https://modrinth.com/mod/fastworkbench)
+
+### Removed
+- Frame Changer
+- Configured Defaults
+- Easy Magic
+- Trading Post
+- Fast Item Frames
+- Overflowing Bars
+- Easy Anvils
+- Universal Bone Meal
+- Visual Workbench
+
+### Changes
+- Fixed Reliable Replacer sidedness
+- Disabled OBE sign optimizations
+
+
 ## [0.5.0.1-beta] - October 7th 2026
 ### Added
 - [Reliable Replacer](https://modrinth.com/mod/reliable-replacer) (for real this time)
@@ -29,6 +53,9 @@ and this project adheres to Semantic Versioning.
 - Caelum
 - Resource Pack Overrides
 - Continuity
+- Supplementaries
+- Amendments
+
 
 ### Changes
 - Fixed Raised config

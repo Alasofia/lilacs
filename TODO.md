@@ -3,6 +3,8 @@
 - Reliable Requiem
     - keepinventory but only for hotbar+armor+trinkets (reliable requiem config)
 
+
+
 ### Changes
 - hide field guide notes from emi
 - fix overlapping recipes
@@ -40,7 +42,9 @@
     - azalea trees with azalea wood
     - cinderscapes
         - umbral trees
+            - problematic because 2 types of leaves
         - scorched trees
+            - problematic because no leaves
         
 - potion rework:
     - add recipes for amendments cauldrons and custom potions
@@ -55,6 +59,16 @@
     - It Takes a Pillage
     - Quark
     
+    
+- Item Descriptions
+    - Quark
+        - Tweaks
+            - Poison Potato Usage
+            - Map Washing
+            -
+
+            
+            
 ### Misc
 - Cinderscapes & HT Tree Chop fix
 - pale garden not spawning?
@@ -62,14 +76,16 @@
     - remove pathfinder quills?
 - Helpful Armorers also works on Clay Golems
 - Inspect Frame Changer for clutternomore shenanigans
-
+- Explain Ancient Tome + Runic things + enchanting in general????
+- Explain Dragon Scales & Elytra
 
 ### Debating
 - add fence + vertical plank + other? to clutter no more for planks
 - Replace/re-examine music mod
 - fancymenu based fudgeu/Playlist replacement
 - Replace Continuity with Fusion?? Why are there both??
-
+- Quark Gold Tools Tweaks
+- Anvil Repairing
 
 
 

@@ -1,13 +1,13 @@
 name = "Simple Music Control"
-filename = "simple_music_control-neoforge-1.5.3+1.21.1.jar"
+filename = "simple_music_control-neoforge-1.5.5+1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/8AX2hHnX/versions/U19mhrMS/simple_music_control-neoforge-1.5.3%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/8AX2hHnX/versions/lwh6lFYn/simple_music_control-neoforge-1.5.5%2B1.21.1.jar"
 hash-format = "sha256"
-hash = "4a57f47c935b8e8d87ed362d2c0315cab6385f10a57228961200d25527a45da5"
+hash = "430999522d39c0f12d2eb5963bb1462b5ef4443a8fbaf729aafada6675615cdf"
 
 [update]
 [update.modrinth]
 mod-id = "8AX2hHnX"
-version = "U19mhrMS"
+version = "lwh6lFYn"
