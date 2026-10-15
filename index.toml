@@ -1,12 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".CHANGELOG.md.kate-swp"
-hash = "2f317cfe52194ef567c814ab740a430549bb6264cb9743115325551ffcb7bed5"
-
-[[files]]
 file = "CHANGELOG.md"
-hash = "c5c888b0ec76f05187738909da5c7e5c21cb9bff29ea243757b1ef276d7a239e"
+hash = "f14e1868ca51bd673e8566cd0bef15aeaf3d214ce8174a8100c21b00858c4528"
 
 [[files]]
 file = "LICENSE"

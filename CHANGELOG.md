@@ -4,7 +4,6 @@ The format is based on Keep a Changelog,
 and this project adheres to Semantic Versioning.
 
 
-
 ## [0.5.1-beta] - October 7th 2026
 ### Added
 - [Lapis Reserve Reborn](https://modrinth.com/mod/lapis-reserve-reborn)
