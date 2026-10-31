@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "f14e1868ca51bd673e8566cd0bef15aeaf3d214ce8174a8100c21b00858c4528"
+hash = "f0c01beee9ea6c707c0b8ef842dc79ad8bb357c8e458d4acbec0ca604172b6c3"
 
 [[files]]
 file = "LICENSE"
-hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+hash = "20c17d8b8c48a600800dfd14f95d5cb9ff47066a9641ddeab48dc54aec96e331"
 
 [[files]]
 file = "config/modpack_defaults/config/NoChatReports/NCR-Client.json"
@@ -18,7 +18,7 @@ hash = "c776c5887254619bfcfc5cde06deb8c78f2d87513845783c8d003890e1327b6f"
 
 [[files]]
 file = "config/modpack_defaults/config/bcc-common.toml"
-hash = "77c12e31beec8cdf6aa054cb96513db1131024383e561417816a60b81fe8a99a"
+hash = "335c485241a843a3866b1d91b729c3215f88a13fe1a429a8dcaf81f89d5add7a"
 
 [[files]]
 file = "config/modpack_defaults/config/betterf3.toml"
@@ -81,8 +81,12 @@ file = "config/modpack_defaults/config/fancymenu/assets/tips.txt"
 hash = "71334460235a493fd930221040c3db6fd020247002904bf8a2fff753c178c44c"
 
 [[files]]
+file = "config/modpack_defaults/config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
 file = "config/modpack_defaults/config/fancymenu/customizablemenus.txt"
-hash = "bf9a1cc1323e67d41f56d19cc1a9b6627ee68ff63a7115775bd5687963b2496d"
+hash = "1236c22620f25831a06c4ef50e50b1a18e13256210f6eb04d76f2425de4daa23"
 
 [[files]]
 file = "config/modpack_defaults/config/fancymenu/customization/drippy_loading_overlay_layout.txt"
@@ -93,12 +97,64 @@ file = "config/modpack_defaults/config/fancymenu/customization/inventory_screen_
 hash = "1daa00602ad3e4280af7e9892a5b8e3e464dc5990a6dd033469ed0b8bcd36de3"
 
 [[files]]
+file = "config/modpack_defaults/config/fancymenu/customization/options_screen_layout.txt"
+hash = "693c76a871bd6b22c011adc2cf4bbfa7b33e6c95467d4ef0b46d1bac3a858a89"
+
+[[files]]
 file = "config/modpack_defaults/config/fancymenu/customization/title_screen_layout.txt"
 hash = "2f235da145c1316e3f63b6c326891a5d06d9511875556d4ac2a713f8bd0c1a19"
 
 [[files]]
+file = "config/modpack_defaults/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
 file = "config/modpack_defaults/config/fancymenu/options.txt"
 hash = "e1949d471c457ed55bf1ce56d989eb75c3c592e395d1e8ac605540e561226fe2"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/ui_themes/cherry_blossom.json"
+hash = "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/ui_themes/cozy_campfire.json"
+hash = "1e7505231b9d99e6315845043ce810dfc7004ce1d8f5a4ceddb4ecb96c03ac50"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/ui_themes/dark.json"
+hash = "01e2a3b5d250c0259a7f97f0d353785bfeab6d7ee2e147c16bb910f1d23e9498"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/ui_themes/dark_high_contrast.json"
+hash = "54316a2b309ddb472b9133f8ccb8694dce9b57be6ebcfb3c2e9d1bbfdade3f26"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/ui_themes/light.json"
+hash = "a05e95f7b62f338049fe0045d9a6a50060d3aba52d5ab83ac1ed6ff55cac1153"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/ui_themes/light_high_contrast.json"
+hash = "7c96ba2f2cb4d59d20eaf88960de7a9308ce8a3460c4e1757e07c42e174ea65a"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/ui_themes/pumpkin_soup.json"
+hash = "7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/ui_themes/purple_void.json"
+hash = "fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/ui_themes/spooky_season.json"
+hash = "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/modpack_defaults/config/fastquit.toml"
@@ -282,7 +338,7 @@ hash = "11a76b12097f8d17228ceeeb1c0e354470f1c4467ed8128d474454ecd94ce6fb"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "66926d6a5ac5a6ba35a5405ec347a7dd2c669098f84fe3d484abde33fa27aa6f"
+hash = "a32f8aa0f617b90d1398eb3b06138c5f715c7cab40c891d8e3a67d46b7311f7a"
 
 [[files]]
 file = "datapacks/lilacsDatapack/data/blooming_biosphere/worldgen/configured_feature/jungle/trees/fancy_dark_oak_azalea.json"
@@ -1405,6 +1461,11 @@ hash = "96a889ae1b64625dafba44ee5193e4ef0fae50dfc8afaa6787837cd4d7529d42"
 metafile = true
 
 [[files]]
+file = "mods/vercte-satchels.pw.toml"
+hash = "266ca293992f82c829a7df4e7331d2d2630d641b0c46016e52d4af4a10e10fde"
+metafile = true
+
+[[files]]
 file = "mods/via-romana.pw.toml"
 hash = "0d116893d2916ca0183ec43656688abb8a10251e164eafc3bac47d8ff722334d"
 metafile = true
@@ -1541,7 +1602,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/lilacs/assets/c/lang/en_us.json"
-hash = "36af40710d142317ed207d758fca9967940cd3ec7feb447a683af3f54f95f302"
+hash = "3719d68e324dfe1e7aa0af15424d099c53343e600aa775043a4b75e0146cf285"
 
 [[files]]
 file = "resourcepacks/lilacs/assets/cinderscapes/lang/en_us.json"
@@ -1582,6 +1643,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/shiny-hearts.pw.toml"
 hash = "bf2326ad4ea934e1344762bd48ce0a69cd93bcdebc53fc5fb35da395500177a5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/verctes-satchels-retextured.pw.toml"
+hash = "b8f06891cdaeac7feca830e6045fa6c4e1c36c52dd9c478d23cf664d52e1b351"
 metafile = true
 
 [[files]]

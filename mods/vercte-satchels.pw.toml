@@ -1,0 +1,13 @@
+name = "Vercte's Satchels"
+filename = "vercte-satchels-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k5D5FLQ4/versions/NSJsKbgX/vercte-satchels-1.2.0.jar"
+hash-format = "sha256"
+hash = "20f2b8e65b6453357519da7abbb49fbbd8099b47d82a573e5324e0c1777c2685"
+
+[update]
+[update.modrinth]
+mod-id = "k5D5FLQ4"
+version = "NSJsKbgX"
