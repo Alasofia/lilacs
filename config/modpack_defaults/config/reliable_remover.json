@@ -37,6 +37,7 @@
     "toms_storage:inventory_configurator",
     "supplementaries:quiver",
     "quark:ravager_hide",
-    "quark:bonded_ravager_hide"
+    "quark:bonded_ravager_hide",
+    "quark:backpack"
   ]
 }
