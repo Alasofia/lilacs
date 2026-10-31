@@ -4,7 +4,6 @@
     - keepinventory but only for hotbar+armor+trinkets (reliable requiem config)
 
 
-
 ### Changes
 - hide field guide notes from emi
 - fix overlapping recipes

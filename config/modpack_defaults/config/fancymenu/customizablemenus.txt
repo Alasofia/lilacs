@@ -3,9 +3,12 @@ type = customizablemenus
 net.minecraft.client.gui.screens.TitleScreen {
 }
 
-net.minecraft.client.gui.screens.inventory.InventoryScreen {
+net.minecraft.client.gui.screens.options.OptionsScreen {
 }
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+net.minecraft.client.gui.screens.options.controls.ControlsScreen {
+}
+
+net.minecraft.client.gui.screens.inventory.InventoryScreen {
 }
 

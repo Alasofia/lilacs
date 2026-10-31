@@ -1,0 +1,13 @@
+name = "Vercte's Satchels Retextured"
+filename = "Vercte's Satchels Retextured 1.1 (1.21.1).zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iqwtA4dw/versions/hGX6EY4H/Vercte%27s%20Satchels%20Retextured%201.1%20%281.21.1%29.zip"
+hash-format = "sha256"
+hash = "ad2391475aa51abe12b2915820b7c1fd81959b4988dfaf887346940a78bc816d"
+
+[update]
+[update.modrinth]
+mod-id = "iqwtA4dw"
+version = "hGX6EY4H"

@@ -6,6 +6,14 @@ and this project adheres to Semantic Versioning.
 
 ## [0.5.1-beta] - October 7th 2026
 ### Added
+- [Vercte's Satchels](https://modrinth.com/mod/vercte-satchels)
+- [Vercte's Satchels Retextured](https://modrinth.com/resourcepack/verctes-satchels-retextured)
+
+### Changes
+- Added options button for Voice Chat
+
+## [0.5.1-beta] - October 7th 2026
+### Added
 - [Lapis Reserve Reborn](https://modrinth.com/mod/lapis-reserve-reborn)
 - [ConfigManager](https://modrinth.com/mod/configmanager)
 - [Anvil Never Too Expensive](https://modrinth.com/mod/ante)
