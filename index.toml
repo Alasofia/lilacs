@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "f0c01beee9ea6c707c0b8ef842dc79ad8bb357c8e458d4acbec0ca604172b6c3"
+hash = "d6e9b07f30fa9bf37803ed839cf437cafb5237563bba19420a7c75bc2936c931"
 
 [[files]]
 file = "LICENSE"
@@ -214,7 +214,7 @@ hash = "73843a350cd2aa56a149e60510f688660fdba7c8228cb757117f40d52232e756"
 
 [[files]]
 file = "config/modpack_defaults/config/raised.json"
-hash = "e965889d81bb38a176aa1fafc7fb5ed7089de9c5f5d41e5d34261448d718ba94"
+hash = "11035cd7e7e8d6842d6c390ff046d4e3b5e9dbb287c9cccf951bf1a83274c036"
 
 [[files]]
 file = "config/modpack_defaults/config/rare_ice.properties"

@@ -26,6 +26,9 @@
         },
         "overflowingbars:toughness_level": {
           "position": "BOTTOM"
+        },
+        "satchels:satchel_hotbar": {
+          "position": "BOTTOM"
         }
       }
     },
