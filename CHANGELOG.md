@@ -4,7 +4,7 @@ The format is based on Keep a Changelog,
 and this project adheres to Semantic Versioning.
 
 
-## [0.6.0-beta] - October 7th 2026
+## [0.6.0-beta] - October 31st 2026
 ### Added
 - [Vercte's Satchels](https://modrinth.com/mod/vercte-satchels)
 - [Vercte's Satchels Retextured](https://modrinth.com/resourcepack/verctes-satchels-retextured)

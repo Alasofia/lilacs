@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "d6e9b07f30fa9bf37803ed839cf437cafb5237563bba19420a7c75bc2936c931"
+hash = "17f25b3a48e003ef26affeab3e9566c30d15f9bafd8f3cc0cf9be1c5e0363b47"
 
 [[files]]
 file = "LICENSE"
@@ -222,7 +222,7 @@ hash = "febb63ad25addf57bb9c3494c475682d224237a3e808e962228e5df7b2486657"
 
 [[files]]
 file = "config/modpack_defaults/config/reliable_remover.json"
-hash = "d67fbddec9a12f11fbba0e92df3b8a9e0a94fb011d6a4bb2da4d88d8d075bf16"
+hash = "6e1d2f5d877004195536a49f0c1c0ce208d4e25f213ac550d51aa70e48fa3631"
 
 [[files]]
 file = "config/modpack_defaults/config/reliable_replacer/swapper.json"
