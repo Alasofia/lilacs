@@ -15,6 +15,8 @@
 - Fix LambLanterns
 - Adjust Chalk Box tooltip to match pack
 - Disable Essential even if installed
+- Sugar Cane Bundle shows Bundle description 
+- add umbral flesh to leaves tag ht tree chop
 
 ### Removals
 - advancements for removed supplementaries items
@@ -24,8 +26,6 @@
 
 ### Custom Content
 - Quivers
-    - Currently disabled
-    - doesn't work in trinkets
     
 - Ponders
     - Via Romana

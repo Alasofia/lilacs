@@ -773,6 +773,11 @@ hash = "b80f7bf3091ff048141a43650f6fc38050fe079ba19e3e41d388d145c99bd00b"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "1811d49906aa7a1e7f1230535c6fec91be45129d028f7900cf35571a497e42b3"
+metafile = true
+
+[[files]]
 file = "mods/fancy-entity-renderer.pw.toml"
 hash = "ecd84eab8fb1e06363aa952e2a4c6a4b32d19b100e714b9063d6572f4a9768eb"
 metafile = true
