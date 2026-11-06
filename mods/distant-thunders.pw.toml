@@ -1,13 +1,13 @@
 name = "Distant thunders"
-filename = "distantthunders-mc1.21.1-neoforge-1.1.0.jar"
+filename = "distantthunders-mc1.21.1-neoforge-1.1.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/cY4e8fDt/versions/ijNdD7a1/distantthunders-mc1.21.1-neoforge-1.1.0.jar"
-hash-format = "sha256"
-hash = "f6f94545fe768a709c709f774cf40113167de74f17511315960dd27f5426a546"
+url = "https://cdn.modrinth.com/data/cY4e8fDt/versions/DDTJUz2Q/distantthunders-mc1.21.1-neoforge-1.1.1.jar"
+hash-format = "sha512"
+hash = "b71b446554c997f979e9628410100ac5b304d6206b0d27b89ab70b5ae4fedf2c7d0b09efa9a1cf2fd9d689135e4e474dd536c37946edfe1e7e488a61cd56bf8d"
 
 [update]
 [update.modrinth]
 mod-id = "cY4e8fDt"
-version = "ijNdD7a1"
+version = "DDTJUz2Q"

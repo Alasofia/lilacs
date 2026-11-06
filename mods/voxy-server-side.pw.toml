@@ -3,11 +3,11 @@ filename = "voxy-server-side-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/84zcagOb/versions/OUZhFmXt/voxy-server-side-neoforge.jar"
-hash-format = "sha256"
-hash = "1219070831cefae8cfe1322c8a1e6658afd57866e8380eb83c300a917d300db5"
+url = "https://cdn.modrinth.com/data/84zcagOb/versions/pjhowbMS/voxy-server-side-neoforge.jar"
+hash-format = "sha512"
+hash = "4bf5afb5e51d309b245eaccb01de7d45014631fd0639772096488d9df261e3f5108c9bba29fd0cf58b0a00896d777d8b185a92648d1bad8bdbd1c11c169c02a0"
 
 [update]
 [update.modrinth]
 mod-id = "84zcagOb"
-version = "OUZhFmXt"
+version = "pjhowbMS"

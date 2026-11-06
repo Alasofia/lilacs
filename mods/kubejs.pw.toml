@@ -1,13 +1,13 @@
 name = "KubeJS"
-filename = "kubejs-neoforge-2101.7.2-build.377.jar"
+filename = "kubejs-neoforge-2101.7.2-build.381.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/umyGl7zF/versions/THIGFPwf/kubejs-neoforge-2101.7.2-build.377.jar"
-hash-format = "sha256"
-hash = "df9a8458b1f83fed06ba54684977911795a5153a462b81a610895f5b1f2f0cbf"
+url = "https://cdn.modrinth.com/data/umyGl7zF/versions/GDXCpKlp/kubejs-neoforge-2101.7.2-build.381.jar"
+hash-format = "sha512"
+hash = "f8286f9f371d0c1fb2b37e56b1dbb359dcfc5a9064a7384cbf6722450f5b5a77f05f55688d7a338b500a6f49590d51e3d3541664dfc0296e50fe573a34e5a529"
 
 [update]
 [update.modrinth]
 mod-id = "umyGl7zF"
-version = "THIGFPwf"
+version = "GDXCpKlp"

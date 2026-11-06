@@ -1,0 +1,13 @@
+name = "Natural Sizes"
+filename = "naturalsizes-1.2-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aGGh86tA/versions/wLfKAQM6/naturalsizes-1.2-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "ea4713ad06e78518918d7fffe963b4f57aed6caf98abb5e37375e8cba072280b837a2b2f51826b299481436d2a4778756fc036029233287e4f37769b81a25726"
+
+[update]
+[update.modrinth]
+mod-id = "aGGh86tA"
+version = "wLfKAQM6"

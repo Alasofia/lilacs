@@ -3,6 +3,20 @@ All notable changes to this project will be documented in this file.
 The format is based on Keep a Changelog,
 and this project adheres to Semantic Versioning.
 
+## Unreleased
+### Added
+- Bow Infinity Fix
+- Loot Journal
+- Fabric Language Kotlin (server dependency)
+- Offgrid
+- Natural Sizes
+
+### Removed
+- Pickup Notifications
+
+### Changes
+- Configured Loot Journal
+- Added Satchels Retexture to Paxi config
 
 ## [0.6.0-beta] - October 31st 2026
 ### Added

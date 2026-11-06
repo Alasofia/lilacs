@@ -1,13 +1,13 @@
 name = "Just Dandy"
-filename = "just_dandy-1.21.1-3.0.4.jar"
+filename = "just_dandy-1.21.1-3.0.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6xf9nu0K/versions/YO49n2gC/just_dandy-1.21.1-3.0.4.jar"
-hash-format = "sha256"
-hash = "d088072812bbc66e4af8b1090bbebdf725afb1d76a40371f34ea72118c5c073f"
+url = "https://cdn.modrinth.com/data/6xf9nu0K/versions/ymjQWsoG/just_dandy-1.21.1-3.0.5.jar"
+hash-format = "sha512"
+hash = "a79790aeb712f92baef683c78f7cd60a19374d8c0bea4616636aa8cdc464298b19ba6da2667541560315ccd6450a98e69a50b3c262a738283967c83d5ae9308f"
 
 [update]
 [update.modrinth]
 mod-id = "6xf9nu0K"
-version = "YO49n2gC"
+version = "ymjQWsoG"
