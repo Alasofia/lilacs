@@ -591,6 +591,11 @@ hash = "77c29a9f3a11a8d906633def48ff287fbda0acca3402e40d206363e58ec60100"
 metafile = true
 
 [[files]]
+file = "mods/boring-default-game-rules.pw.toml"
+hash = "f795fcf2c14e1f6a13e14fb090f16064809ecf7dcce0d573822a9e026e57267a"
+metafile = true
+
+[[files]]
 file = "mods/bow-infinity-fix.pw.toml"
 hash = "b8837889b804dacb837572fcf16032cd531b5814e1817ed0d6a35523cc9c5d86"
 metafile = true
@@ -1179,7 +1184,7 @@ metafile = true
 
 [[files]]
 file = "mods/offgrid.pw.toml"
-hash = "18328308c23acce93292cae132abb6472fb54ef42998b68913d3b9fee0681b04"
+hash = "0a2d4330c671a026caa54f9b9fbd6b8e1301e1bf97ea475a20a12cc9aeb1fcac"
 metafile = true
 
 [[files]]
@@ -1555,6 +1560,11 @@ metafile = true
 [[files]]
 file = "mods/windlink.pw.toml"
 hash = "912d7a617032c99138b2a78c33508d0ba79aa45e8b45199a873ca1020d61f6a8"
+metafile = true
+
+[[files]]
+file = "mods/xaeronuhuh.pw.toml"
+hash = "0ac0ada91b71d885196ca6e3732dc05bb00dfa41308142ae8f93af8687a8b2f9"
 metafile = true
 
 [[files]]

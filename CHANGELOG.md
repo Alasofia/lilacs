@@ -13,6 +13,7 @@ and this project adheres to Semantic Versioning.
 
 ### Removed
 - Pickup Notifications
+- Anvil Never Too Expensive (redundant)
 
 ### Changes
 - Configured Loot Journal

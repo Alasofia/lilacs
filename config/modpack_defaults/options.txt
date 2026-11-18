@@ -135,7 +135,6 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_iris.keybind.wireframe:key.keyboard.unknown
-key_key.reliable_remover.emi_delete:key.keyboard.unknown
 key_key.corpse.death_history:key.keyboard.unknown
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
@@ -150,6 +149,8 @@ key_key.scholar.insert_empty_page_left:key.keyboard.unknown
 key_key.scholar.remove_page_left:key.keyboard.unknown
 key_key.scholar.insert_empty_page_right:key.keyboard.unknown
 key_key.scholar.remove_page_right:key.keyboard.unknown
+key_key.reliable_remover.emi_delete:key.keyboard.unknown
+key_key.reliable_remover.jei_delete:key.keyboard.delete
 key_key.push_to_talk:key.keyboard.g
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.m
@@ -223,6 +224,10 @@ key_quark.keybind.variant_selector:key.keyboard.unknown
 key_key.raised.options:key.keyboard.unknown
 key_key.presencefootsteps.settings:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
+key_Toggle Preview:key.keyboard.unknown
+key_Hold Preview:key.keyboard.r
+key_Preview Mode:key.keyboard.unknown
+key_Filter Type:key.keyboard.unknown
 soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0
@@ -240,3 +245,5 @@ modelPart_right_sleeve:true
 modelPart_left_pants_leg:true
 modelPart_right_pants_leg:true
 modelPart_hat:true
+musicToast:"never"
+musicFrequency:"DEFAULT"
